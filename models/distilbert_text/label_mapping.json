@@ -1,0 +1,7 @@
+{
+  "benign": 0,
+  "urgency": 1,
+  "scarcity": 2,
+  "social_proof": 3,
+  "misedirection": 4
+}

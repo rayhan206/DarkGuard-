@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DarkGuard</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <span class="eyebrow">EXPLAINABLE AI SCREENING</span>
+      <h1>DarkGuard</h1>
+      <p>Review an e-commerce page for potential dark-pattern cues without making legal or factual accusations.</p>
+    </header>
+
+    <section class="panel controls" aria-labelledby="analyse-heading">
+      <h2 id="analyse-heading">Choose an input</h2>
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-mode="url" type="button">Webpage URL</button>
+        <button class="tab" data-mode="image" type="button">Screenshot</button>
+      </div>
+      <form id="url-form">
+        <label for="url">Public URL or built-in demo URL</label>
+        <div class="input-row">
+          <input id="url" name="url" type="url" value="http://127.0.0.1:8000/demo/urgency" required>
+          <button class="primary" type="submit">Analyse page</button>
+        </div>
+        <p class="hint">Try <a href="/demo/urgency" target="_blank">the urgency demo</a> or another built-in page.</p>
+      </form>
+      <form id="image-form" class="hidden">
+        <label for="image">PNG, JPEG, or WebP (maximum 8 MB)</label>
+        <div class="input-row">
+          <input id="image" name="image" type="file" accept="image/png,image/jpeg,image/webp" required>
+          <button class="primary" type="submit">Analyse screenshot</button>
+        </div>
+      </form>
+      <div id="status" role="status" aria-live="polite"></div>
+    </section>
+
+    <section id="results" class="hidden" aria-live="polite">
+      <div class="result-heading">
+        <div><span class="eyebrow">RESULT</span><h2>Potential cues</h2></div>
+        <span id="engine" class="engine"></span>
+      </div>
+      <p id="summary"></p>
+      <div class="images">
+        <figure><img id="original" alt="Original analysed page"><figcaption>Original</figcaption></figure>
+        <figure><img id="annotated" alt="Screenshot with labelled detection boxes"><figcaption>Annotated</figcaption></figure>
+      </div>
+      <div id="detections" class="cards"></div>
+      <p id="limitation" class="limitation"></p>
+    </section>
+
+    <aside class="limitations">
+      <strong>Scope:</strong> DarkGuard finds potential cues. It cannot prove that stock, timing, or legal claims are false. Screenshot-only mode cannot reliably identify DOM states such as preselected checkboxes.
+    </aside>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

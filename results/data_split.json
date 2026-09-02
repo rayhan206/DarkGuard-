@@ -1,0 +1,29 @@
+{
+  "source": "https://raw.githubusercontent.com/yamanalab/ec-darkpattern/refs/heads/master/dataset/dataset.tsv",
+  "duplicate_rule": "exact duplicate after trimming surrounding whitespace",
+  "unsupported_source_categories_removed": [
+    "Obstruction",
+    "Sneaking",
+    "Forced Action"
+  ],
+  "rows": 2306,
+  "unique_pages": 1208,
+  "rows_by_split": {
+    "train": 1643,
+    "test": 347,
+    "validation": 316
+  },
+  "pages_by_split": {
+    "test": 182,
+    "train": 845,
+    "validation": 181
+  },
+  "class_counts": {
+    "benign": 1171,
+    "scarcity": 418,
+    "social_proof": 312,
+    "urgency": 210,
+    "misedirection": 195
+  },
+  "group_leakage_pages": 0
+}

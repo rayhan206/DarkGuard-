@@ -1,0 +1,194 @@
+{
+  "text_test_rows": 347,
+  "keyword_rules": {
+    "macro_f1": 0.6297984486307229,
+    "per_class_f1": {
+      "benign": 0.806378132118451,
+      "urgency": 0.8888888888888888,
+      "scarcity": 0.7368421052631579,
+      "social_proof": 0.14545454545454545,
+      "misedirection": 0.5714285714285714
+    }
+  },
+  "tfidf_baseline": {
+    "macro_f1": 0.921286217706782,
+    "per_class_f1": {
+      "benign": 0.943502824858757,
+      "urgency": 0.9180327868852459,
+      "scarcity": 0.9739130434782609,
+      "social_proof": 0.9433962264150944,
+      "misedirection": 0.8275862068965517
+    }
+  },
+  "distilbert": {
+    "macro_f1": 0.9663339221403406,
+    "per_class_f1": {
+      "benign": 0.9720670391061452,
+      "urgency": 1.0,
+      "scarcity": 0.9830508474576272,
+      "social_proof": 0.98,
+      "misedirection": 0.896551724137931
+    }
+  },
+  "random_forest_synthetic": {
+    "warning": "Controlled synthetic template results; not real-world performance evidence.",
+    "macro_f1": 1.0,
+    "per_class": {
+      "benign": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "popup_pressure": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "preselected_addon": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "subscription_warning": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "visual_interference": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    ],
+    "labels": [
+      "benign",
+      "popup_pressure",
+      "preselected_addon",
+      "subscription_warning",
+      "visual_interference"
+    ]
+  },
+  "fused_demo_templates": {
+    "template_pass_rate": 1.0,
+    "templates": [
+      {
+        "template": "safe",
+        "expected": "no cue",
+        "detected": [],
+        "passed": true
+      },
+      {
+        "template": "urgency",
+        "expected": "potential_urgency",
+        "detected": [
+          "potential_urgency"
+        ],
+        "passed": true
+      },
+      {
+        "template": "scarcity",
+        "expected": "potential_scarcity",
+        "detected": [
+          "potential_scarcity"
+        ],
+        "passed": true
+      },
+      {
+        "template": "social_proof",
+        "expected": "social_proof",
+        "detected": [
+          "social_proof"
+        ],
+        "passed": true
+      },
+      {
+        "template": "confirmshaming",
+        "expected": "confirmshaming",
+        "detected": [
+          "confirmshaming"
+        ],
+        "passed": true
+      },
+      {
+        "template": "preselection",
+        "expected": "preselected_addon",
+        "detected": [
+          "preselected_addon",
+          "subscription_warning"
+        ],
+        "passed": true
+      },
+      {
+        "template": "visual_interference",
+        "expected": "visual_interference",
+        "detected": [
+          "visual_interference"
+        ],
+        "passed": true
+      },
+      {
+        "template": "dynamic_timer",
+        "expected": "potential_urgency",
+        "detected": [
+          "potential_urgency"
+        ],
+        "passed": true
+      }
+    ]
+  }
+}

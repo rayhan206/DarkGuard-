@@ -1,0 +1,247 @@
+{
+  "model": "RandomForestClassifier(n_estimators=100, max_depth=6, random_state=42)",
+  "data_warning": "Controlled synthetic template results; not real-world performance evidence.",
+  "split_method": "template_id grouped: 40 train, 10 validation, 10 test templates",
+  "validation": {
+    "macro_f1": 1.0,
+    "per_class": {
+      "benign": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "popup_pressure": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "preselected_addon": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "subscription_warning": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "visual_interference": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    ],
+    "labels": [
+      "benign",
+      "popup_pressure",
+      "preselected_addon",
+      "subscription_warning",
+      "visual_interference"
+    ]
+  },
+  "test": {
+    "macro_f1": 1.0,
+    "per_class": {
+      "benign": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "popup_pressure": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "preselected_addon": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "subscription_warning": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "visual_interference": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 10.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 50.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        10
+      ]
+    ],
+    "labels": [
+      "benign",
+      "popup_pressure",
+      "preselected_addon",
+      "subscription_warning",
+      "visual_interference"
+    ]
+  },
+  "feature_importance": [
+    {
+      "feature": "contains_subscription_word",
+      "importance": 0.14946497048344778
+    },
+    {
+      "feature": "area_ratio",
+      "importance": 0.1342463376515667
+    },
+    {
+      "feature": "accept_reject_area_ratio",
+      "importance": 0.1314361434412199
+    },
+    {
+      "feature": "is_checkbox",
+      "importance": 0.12996518803280813
+    },
+    {
+      "feature": "opacity",
+      "importance": 0.11565945963150775
+    },
+    {
+      "feature": "is_checked",
+      "importance": 0.10363848498575885
+    },
+    {
+      "feature": "is_popup",
+      "importance": 0.07936313074698323
+    },
+    {
+      "feature": "is_optional_addon",
+      "importance": 0.05232181176367748
+    },
+    {
+      "feature": "animation_count",
+      "importance": 0.03625804415354196
+    },
+    {
+      "feature": "contains_price",
+      "importance": 0.017156182819175143
+    },
+    {
+      "feature": "is_button",
+      "importance": 0.015335789041642766
+    },
+    {
+      "feature": "text_change_count",
+      "importance": 0.012610700371986921
+    },
+    {
+      "feature": "contrast_ratio",
+      "importance": 0.01191698706278816
+    },
+    {
+      "feature": "font_size_ratio",
+      "importance": 0.010626769813895251
+    }
+  ]
+}

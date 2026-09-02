@@ -1,0 +1,2312 @@
+page_id,text,category,split
+1012,FLASH SALE | LIMITED TIME ONLY Shop Now,urgency,validation
+158,Pillowcases & Shams,benign,train
+108,Write a review,benign,validation
+1425,"To start your return, simply click on the following button and add your return details. Once the form is filled, you will receive an email with shipping instructions for how to ship the item(s) to our warehouse.",benign,train
+1658,newsletter signup (privacy policy),benign,train
+975,In demand,scarcity,train
+1469,"We cannot guarantee door to door delivery for every customer. Buyers in remote areas such as farms, islands, mining camps, small towns, or out-of-towners, etc may need to collect from their nearest freight depot.",benign,train
+1570,Hurry! Only 2 left in stock,scarcity,train
+1617,In Stock only 3 left,scarcity,train
+108,International Shipping Policy,benign,validation
+1333,"Clothes, Shoes & Accessories",benign,test
+1199,Hurry! Only 2 left,scarcity,validation
+822,Primary Arms Scopes,benign,train
+1264,ONLY 8 LEFT,scarcity,validation
+1609,MoTrail,benign,validation
+776,LCD Ribbon Cables,benign,test
+1779,READY FOR YOUR NEXT AUTHENTIC NHL JERSEY?,benign,test
+1739,OUR BEST SELLING GOGGLE,misedirection,train
+98,"1,142 people have added to cart recently",social_proof,train
+1438,Limited Availability,scarcity,train
+449,No thanks. I don't like free things...,misedirection,train
+1667,read you will want to read -- Five Book Group Favourites * Sunday Post *,benign,train
+212,Supply & Demand,benign,validation
+284,"Michael in Pontiac, United States purchased a",social_proof,train
+1381,Bathroom Lighting,benign,train
+822,Shop Optics >,benign,train
+4,9 people are viewing this.,social_proof,validation
+1082,"894 Claimed! Hurry, only a few left!",scarcity,test
+255,77 PEOPLE LIKE THIS,social_proof,train
+833,Girls Trousers,benign,train
+1009,Specs,benign,test
+1073,4 items left,scarcity,train
+495,HURRY! EXCLUSIVE DEAL FOR YOU! 1 4 : 4 5,urgency,test
+718,Offer ends in,urgency,train
+25,"Another babe in Alexandria, United States just ordered Flat Tummy Tea",social_proof,train
+276,Someone in Boling Iago Texas United States Purchased Seek Discomfort Sketch White iPhone Case 5 hours ago,social_proof,validation
+819,More Info,benign,train
+822,Daystate FAC Air Rifles,benign,train
+4,"Keyboard Navigation Profile (Motor-Impaired): this profile enables motor-impaired persons to operate the website using the keyboard Tab, Shift+Tab, and the Enter keys. Users can also use shortcuts such as “M” (menus), “H” (headings), “F” (forms), “B” (buttons), and “G” (graphics) to jump to specific elements.",benign,validation
+126,24 sold in last 24 hours.,social_proof,train
+1428,#CERTIFIED_FACE_MASKS,benign,train
+1468,Shop the Look,benign,train
+638,Kicks Remotes,benign,train
+1414,Only 7 left in stock.,scarcity,train
+414,Whey Protein Isolate,benign,train
+1736,Cases for Magsafe Refine by Product Type: Cases for Magsafe,benign,test
+414,Product Info,benign,train
+35,Someone from Norway purchased a Super FG Grater - 12x Faster - 15% OFF,social_proof,train
+395,Sign In With Google,benign,validation
+203,Shop All,benign,train
+1119,You can change your preference here Shop for Select an age,benign,train
+1656,1 in Stock,scarcity,train
+1590,shop all,benign,train
+1405,Low Stock Alert: Only 8 left in inventory,scarcity,train
+1536,Womens Platform Shoes,benign,train
+767,Screen print graphics,benign,train
+149,"IBKUL Solid Mock Neck Half Zip Pullover purchased from Clinton, MD, US 1 minute ago",social_proof,train
+395,Thin and tough - protects from minor scratches,benign,validation
+361,Kimberly R.,benign,train
+432,I don't feel lucky,misedirection,train
+1673,Only 3 items left,scarcity,train
+680,Butterscotch Cakes,benign,train
+146,"Someone in Saint Kilda, Victoria purchased Frank Queen Size Bed Base",social_proof,train
+662,Awntech New Yorker Window/Entry Slope Awnin ...,benign,validation
+214,45 ADDED TO BAG IN THE PAST 24 HOURS,social_proof,train
+1147,87% offers claimed. Hurry up!,scarcity,train
+1031,HURRY! £32.99 UK DELIVERY ENDS SOON,urgency,validation
+1289,ONLY 3 LEFT,scarcity,test
+1386,8 items left,scarcity,validation
+137,19 people viewed this product per day,social_proof,test
+1630,Irwin,benign,train
+1102,96 ITEM(S) LEFT IN STOCK!,scarcity,test
+117,__________,benign,train
+1138,Only 1 left In Stock,scarcity,validation
+1536,Availability: Only 4 Left!,scarcity,train
+680,Personalised Gifts,benign,train
+1405,A customer service specialist will contact you soon.,benign,train
+521,Your order is reserved for 09:54 minutes!,urgency,train
+1630,Screws & Other Fixings,benign,train
+66,Use the domain shortly after payment,benign,train
+1459,Office Supplies & Decor,benign,train
+1531,This size has only 1 left in stock,scarcity,train
+1468,Arrow,benign,train
+1044,Returns an Item,benign,train
+157,HOT PRODUCT Over 250 people are looking at this item.,social_proof,test
+478,I don't want to save money,misedirection,train
+1135,HURRY! ONLY 2 LEFT IN STOCK!,scarcity,train
+230,Hair type: Curly,benign,train
+745,DEAL ENDS IN 40:55:13,urgency,train
+216,Someone bought: HYPE BLUE LARGE SPLAT KIDS LEGGINGS,social_proof,validation
+1171,Only 1 Left,scarcity,train
+198,Search for similiar products,benign,train
+1250,Only 33 left,scarcity,train
+991,FAMILY SHADE PACK | PICK YOUR PACK,benign,train
+638,Promaster City Remotes,benign,train
+1217,"Hurry, only a few left!",scarcity,test
+1509,V&A Collection People Tree’s collaboration with the Victoria and Albert Museum offers a stylish and contemporary capsule collection which celebrates the beauty and variety of pattern which the London museum is renowned for.,benign,train
+1115,Only 11 left!,scarcity,train
+1404,Hurry! Only 6 left in stock,scarcity,train
+213,40 users are currently active on our website just now.,social_proof,train
+230,Hair Tools,benign,train
+1429,Email Address*,benign,train
+1779,Send Us Your Jersey,benign,test
+1468,View All Home Office Furniture,benign,train
+1425,Search Result:Search Results:,benign,train
+1142,90% offers claimed. Hurry up!,scarcity,train
+1536,Tube Tops,benign,train
+21,"Mitchell H. Purchased a Dimplex IgniteXL 100"" Linear Built in Electric Fireplace",social_proof,train
+230,Hair type: Wavy,benign,train
+215,7 people looked at this product in the last 24 hours.,social_proof,train
+527,Glow Gear,benign,test
+1292,18 In Stock,scarcity,train
+171,Someone in New Lynn bought a Kogan A1 Earphones with Inline Control for IOS/Android 1 hour ago.,social_proof,validation
+668,00:15:07:45,urgency,train
+315,"No, I'll rather pay full price.",misedirection,train
+1464,Only 9 Left.,scarcity,train
+149,Deals of the Week,benign,train
+1667,"... It covers love and loss, friendship and pain through",benign,train
+59,1 person is viewing this,social_proof,test
+510,Your order is reserved for 09:14 minutes!,urgency,train
+680,"Gift TypeFlowers, Cakes, Plants, etc.",benign,train
+984,CAMILLA World,benign,test
+714,Sweep Train Simple A Line Tulle Wedding Dress with Appliques and Beading,benign,validation
+103,Fun Treat Tossing,benign,train
+1024,Limited time remaining!,urgency,train
+384,"No thanks, I'll pay full price",misedirection,train
+1434,Your shopping bag is empty...,benign,train
+209,Trousers & Chinos,benign,validation
+1447,Only 7 left in stock!,scarcity,test
+1272,Only 5 item(s) left.,scarcity,train
+664,Chargers,benign,train
+1652,(only 5 left),scarcity,train
+113,Eyelashes,benign,train
+66,Pick the price that matches your budget.,benign,train
+212,"Bringing the latest footwear, ‘fits and accessories from the biggest brands, the JD app makes coppin’ the hottest looks even easier!",benign,validation
+1468,Child Safety,benign,train
+117,Cosmic Rainbow,benign,train
+1488,NRA Annual Meetings & Exhibits,benign,train
+1673,ShoesBootsCasual ShoesFormal ShoesSandals & Flip-flopsShoe Care & AccessoriesSlippersSneakers & CanvasSports Shoes,benign,train
+1317,Moonstone Beads,benign,train
+400,I'll Shop Without A Discount,misedirection,test
+1477,Only 11 Left In Stock,scarcity,validation
+1446,Netherlands Antilles USD,benign,train
+414,Was this product description useful?YesNo,benign,train
+765,Returns Information,benign,train
+812,TiesToys & GamesTravelWatches,benign,validation
+130,Bought by 39 people in last few hours! HOT SELLER!,social_proof,test
+1381,Books and Stationery,benign,train
+494,Your order is reserved for 08:48 minutes!,urgency,train
+556,11 11 Hours: 00 22 Minutes: 3223 3223 Seconds,urgency,train
+1550,Bioactive Custodians,benign,test
+1330,Most-Hearted Styles Shop Now,benign,test
+1723,Use a clean vase and clean water.,benign,validation
+1359,"well, this is awkward.",benign,train
+976,@elsieandpresley_ got some fantastic color results with our Hair Color Wax. Well done 👏,benign,train
+1409,All Licensed,benign,train
+133,Nursing chairs,benign,train
+1247,Only 1 Item(s) left,scarcity,train
+583,Discount pending $10 OFF 00:30:00,urgency,test
+149,Juniors' Shoes,benign,train
+1016,Limited Time: $10 Off! Discount Reflected In Price!,urgency,train
+1051,Switchers,benign,test
+1158,Data Processor Privacy Policy: https://cookieinformation.com/cookie-and-privacy-policy,benign,train
+1466,Ribbons,benign,train
+350,"By clicking Sign Up, you agree to receive marketing text messages from Southern Tide at the number provided, including messages sent by autodialer. Consent is not a condition of any purchase. Message and data rates may apply. Message frequency varies. Reply HELP for help or STOP to cancel. View our Privacy Policy and Terms of Service.",benign,train
+229,IN 43 PEOPLE'S SHOPPING BAG,social_proof,train
+1317,Amethyst Beads,benign,train
+300,Down Jackets,benign,validation
+502,Hurry up! Prices increase in 0 DAYS 11 HRS 59 MINS 55 SECS,urgency,train
+86,"BERNARD in Philadelphia, United States purchased a",social_proof,train
+368,"NO THANKS, I DON’T MIND MISSING OUT",misedirection,train
+1198,"Hurry, only 1 left!",scarcity,train
+1575,Only 26 Left,scarcity,train
+178,7 sold in last 24 hours,social_proof,train
+569,Buy Wearables»,benign,test
+771,LAST CHANCE - UP TO 70% OFF - ENDS IN: 20 HRS 28 MINS 30 SECS,urgency,test
+907,Watercolour Brushes Toggle category Watercolour Brushes,benign,train
+729,LightInTheBox 掲載記事,benign,train
+108,Clear filter,benign,validation
+825,HURRY UP > 09H 42M 39S,urgency,train
+1409,Sweats,benign,train
+976,Q: Will this damage my hair?,benign,train
+1330,Brandon Blackwood,benign,test
+91,"Someone in Sasebo, Japan just bought",social_proof,train
+125,80 Customers are considering this product right now.,social_proof,train
+159,88 PEOPLE VIEWED ITEM IN THE LAST 24 HOURS,social_proof,validation
+1468,End Tables,benign,train
+1235,ONLY 2 LEFT IN STOCK!,scarcity,train
+1123,Only few items left in stock,scarcity,train
+1535,Only 1.75 yards left in stock!,scarcity,test
+688,"Brilliant! Chose what I wanted, and came a week later. Very happy with my purchase",benign,train
+267,71 people have purchased this item,social_proof,test
+1139,Only 8 left,scarcity,train
+1749,Subscribe & Save,misedirection,train
+803,"We use cookies to improve our services, make personal offers, and enhance your experience. If you do not accept optional cookies below, your experience may be affected. If you want to know more, please, read the Cookie Policy",benign,train
+79,"Long Dress Style Beach Cover Up With Lace Detail Jessica in Metairie, United States",social_proof,test
+8,"Someone in Kilwinning, United Kingdom just bought Cuban Link Chain Bracelet",social_proof,train
+509,00DAYS00HOURS14MINUTES21SECONDS,urgency,validation
+306,"Great prices, professional customer services",benign,train
+638,Carnival Remotes,benign,train
+1659,Hurry! Only 1 left in size M!!,scarcity,train
+946,Items in your cart are in high demand.,scarcity,train
+1573,VIP Points!,benign,train
+230,Root Touch Up + Brow Filler,benign,train
+1639,Limited stock Only 2 left,scarcity,test
+1573,"Looks like your cart is empty, let's fix that!",benign,train
+1209,Over 500 left in stock,scarcity,train
+1630,Lasers,benign,train
+264,Choose your payment day. View your schedule and select pay now.,benign,train
+199,Hurry up! 6 people other than you have this product in their cart,social_proof,test
+1489,E-Gift Cards,benign,train
+1168,1 LEFT,scarcity,train
+252,Leslie in USA just Purchased Special Design Exclusive Handmade Silver Ring,social_proof,train
+680,Personalised Chocolates,benign,train
+1536,Shop Dresses by Occasion,benign,train
+344,I do not want to protect my item,misedirection,test
+1713,Add to Your Gift and We'll Ship it For Free!,misedirection,train
+1604,Wallets,benign,train
+1489,Exclusive offers & discounts for club members via email,benign,train
+1056,Buy with humm.,benign,train
+1351,"Household Cleaning Kitchen Bathroom Eco Laundry General Cleaning Kitchenware Cook & Bakeware Food Storage & Preservation Kitchen Textiles Appliances Kitchen Appliances Household Appliances Bed, Bath & Living",benign,test
+1009,Synthesis E-MTB Carbon Wheelset,benign,test
+84,"25,439 people have viewed this item",social_proof,validation
+379,No thanks I definitely measured correctly,misedirection,test
+181,57 PEOPLE HAVE LOOKED AT THIS TODAY,social_proof,train
+65,Theresa from Botkins just bought Panoply 14918 A-line Lace Formal Dress,social_proof,train
+1009,Women's ApparelCollection,benign,test
+1718,"Before you check out, can we tempt you?",misedirection,train
+1328,Women's Sandals,benign,train
+1351,Plant-Based Beauty,benign,test
+189,Frame out of stock in this colour,benign,train
+1469,Hair Care Sets,benign,train
+1332,Limited quantity remaining,scarcity,validation
+1000,CareersAbout UsAffiliatesPrivacy SettingsAdvertise with usHelpSite map,benign,train
+1686,"128 sold today! Hurry, only a few left!",scarcity,train
+303,4 people are looking at this right now.,social_proof,train
+335,"No thanks, I dont want a discount",misedirection,test
+235,"Someone from Portland, United States (US) purchased MODALERT recently.",social_proof,train
+1042,Limited Time Offer Limited Offer! 15% off on Naomi Home with Coupon 9N03. You pay $63.74,urgency,train
+151,2 people are viewing this,social_proof,train
+1605,HURRY! ONLY 1 IN STOCK!,scarcity,validation
+1304,Printed,benign,train
+1044,Patient Transfer Devices,benign,train
+622,Summer Casual Printed Loosen Short Sleeve T-Shirt,benign,train
+622,Summer V Neck Solid Color Short Sleeve Waffle T-Shirt,benign,train
+1681,LAST CHANCE TO ACTIVATE 10% OFF,scarcity,train
+485,Your order is reserved for 09:45 minutes!,urgency,train
+1263,only 5 left,scarcity,validation
+43,78 Persons looking for this product,social_proof,train
+680,Heart Shaped Cake,benign,train
+259,227 Bought Already,social_proof,train
+1026,You've made the starting lineup. Be on the look out for an exclusive offer for signing up.,benign,train
+766,Universal Fit Collapsible Smart Phone Stand,benign,validation
+1368,Hurry! Only Limited Items Left,scarcity,train
+1646,現代奴隷法に対する透明性に関する声明 (opens in a new tab),benign,train
+941,Strong demand! Complete your order before it's too late!,scarcity,train
+550,Your order is reserved for 09:56 minutes!,urgency,train
+48,"Sudha rana from Jaipur bought this product, 23 Mins ago.",social_proof,train
+1466,Gift Wrapping Supplies,benign,train
+308,6 others have already bought this deal today!,social_proof,validation
+1779,info@coolhockey.com,benign,test
+1004,"LIMITED TIME OFFER 10% OFF - ENTER CODE \""CASES\"" AT CHECKOUT",urgency,train
+724,Safe & Secure Checkout,benign,test
+250,"GRACE from ORLANDO, United States bought Camouflage Jumpsuit 31 minutes ago",social_proof,train
+142,"Synne Kristine in Halden, bought Classic Bokksu Subscription (Billed Every 1 Month) (Ships every 1 Months) about 45 minutes ago",social_proof,validation
+1469,Wall Mounted Air Conditioners,benign,train
+1691,"803 Claimed! Hurry, only a few left!",scarcity,train
+64,"Monira in Doha, Qatar purchased a LilyVanity™ Velvet Box",social_proof,test
+1186,Only 2 left!,scarcity,train
+141,3 PEOPLE VIEWING,social_proof,test
+360,"No thanks, I’d rather pay full price.",misedirection,train
+1304,Product Feature,benign,train
+883,Plant-based Protein,benign,train
+1317,Parad Combo Deals,benign,train
+198,Last Shape Guide,benign,train
+1315,Baby & Toddler Toys,benign,train
+680,Clocks,benign,train
+1317,Cat's Eye Beads,benign,train
+264,Shop now. Pay later. Always interest-free,benign,train
+1381,Stay with us in India,benign,train
+443,No thanks. I don’t want deals.,misedirection,train
+776,Wyse Thin Client,benign,test
+1038,AdjustableBucketHeadbandsSale Items- View All -,benign,train
+648,Every bicycle tells a story,benign,validation
+1658,"This site uses cookies to provide and improve your shopping experience. If you want to benefit from this improved service, please opt-in.",benign,train
+1717,Add and save!,misedirection,train
+1469,Intercoms & Doorbells,benign,train
+1536,Boys Purple School Uniforms,benign,train
+212,RECENTLY VIEWED 2 others viewed this in the last few hours,social_proof,validation
+179,2 viewed per hour,social_proof,validation
+133,1 other customers have this item in their shopping cart,social_proof,train
+1408,ONLY A FEW LEFT IN STOCK,scarcity,train
+646,1day21:04:58,urgency,validation
+1330,Fashion Forms,benign,test
+1348,Stock Low : 6 items left.,scarcity,train
+374,"NO, I'LL PAY FULL PRICE",misedirection,train
+1550,Terrarium Light Canopies,benign,test
+1533,"HURRY, LOW IN STOCK!",scarcity,validation
+1144,Only 4 copies left,scarcity,train
+1424,2 LEFT,scarcity,train
+209,Feedback,benign,validation
+605,2 DAYS 13:06:13,urgency,train
+1009,Receive news and updates on new products,benign,test
+162,5338 people bought this,social_proof,train
+1103,2 left in stock,scarcity,validation
+1316,dFresh - Fresh Products,benign,test
+1815,Thanks! -RMO Team,benign,train
+99,"6,743 people have viewed recently",social_proof,train
+932,Selling fast!,scarcity,test
+203,Welcome To Hotter us,benign,train
+1039,ON SALE: Select Seasonal T-Shirts only $19.99! Limited time only! Save Now!,urgency,test
+782,"To enable notifications, click 'Allow' when prompted.",benign,train
+1026,PHX Mercury,benign,train
+1009,Easy Release Cleat Kit,benign,test
+56,111 people have purchased this item,social_proof,train
+1723,Flowers Trivia:,benign,validation
+675,Your order is reserved for 09:58 minutes!,urgency,test
+1667,I've recommended The Keeper of Lost Things to everyone.,benign,train
+1027,LIMITED TIME! - Save $5 OFF Orders $70+ Coupon: SAVE5 - PLUS - Free Gift on Orders $125+,urgency,train
+573,Celebrity Synthetic Wigs,benign,train
+73,1626 people seeing this product right now,social_proof,train
+1667,"Book picture is for illustrative purposes only, actual binding, cover or edition may vary.",benign,train
+1673,Converse,benign,train
+188,Stay Connected,benign,train
+1357,Only 1 left in Stock,scarcity,train
+1451,sales@ecklers.net,benign,validation
+520,0 Days 2 Hours 57 Minutes 53 Seconds,urgency,train
+3,Sharmeen Atif From Karachi just bought Stylish Metal Glasses Frames For Kids-Assorted-NA7157,social_proof,validation
+1189,Only 34 Left!,scarcity,train
+105,"William in Pago Pago, United States purchased a",social_proof,train
+361,"No thanks, I don’t like fun and games.",misedirection,train
+1704,"PROTECT YOUR SOFA! Your Humblebum Sofa in Thatch house fabric will look wicked! Why not add Castelan Fabric Protection to cover your new squish machine against wine spillages, messy TV dinners, and other disasters for just just £80?",misedirection,test
+1488,Explore The NRA Universe Of Websites,benign,train
+667,New In Special Occasion,benign,train
+664,"› New Year, New Kit Sale",benign,train
+793,"HURRY, ORDER WITHIN 16h 59m 06s TO GET 35% OFF EVERYTHING* EXCL SALE & BEAUTY ENTER: DOLL35",urgency,test
+108,Title of Review,benign,validation
+622,We uses cookies (and similar techniques) to provide you with better products and services. Your permission will be confirmed if you continue using this website.Read more,benign,train
+795,LAST CHANCE TO SAVE... enter your email to Save 20% on your first order 00 hours :29 minutes :43 seconds,urgency,validation
+654,OFFER EXPIRES IN: YES NO Want 10% Off Your First Order? 7 minutes 35 seconds,urgency,train
+628,Cellular/Honeycomb Shades,benign,train
+232,113 people have viewed in the last 24hrs,social_proof,test
+4,Epilepsy Safe Profile: this profile enables people with epilepsy to safely use the website by eliminating the risk of seizures resulting from flashing or blinking animations and risky color combinations.,benign,validation
+66,"Jamie in Nashville, United States purchased",social_proof,train
+163,"Denise in Saluda, Virginia bought Terani Couture - 1911E9095 Embroidered Asymmetric Neck Mermaid Gown",social_proof,train
+203,Don't miss out! We've sold 38 in the last few days.,social_proof,train
+355,"No, thank you. I prefer to pay the full price",misedirection,validation
+420,"No Thanks, I don't like exclusive deals.",misedirection,validation
+1522,Loading interface...,benign,train
+1026,SAF Warriors,benign,train
+113,Lens Manual Washer,benign,train
+322,"No thanks, I'd like 0% off",misedirection,train
+573,Warm Tips,benign,train
+1328,Our Carbon Footprint,benign,train
+622,Women's Summer New Clerk Large Size Loose Cotton And Linen Blouse,benign,train
+1786,Uncheck the box if you prefer not to receive email updates.,misedirection,train
+1343,| Add to Compare,benign,train
+407,"No Thanks, I Don't Want a Free Gift",misedirection,train
+682,World of Sweats,benign,train
+953,This item is in high demand.,scarcity,test
+300,Cargo Trousers,benign,validation
+573,Hair Bundles With Closure,benign,train
+1648,BreakThrough,benign,train
+1084,ONLY 1 LEFT! GET IT NOW!,scarcity,train
+156,"Our most recent customers are from New Rochelle, Roseville, and Brooksville",social_proof,test
+638,ShopClose menu,benign,train
+822,Used Rifles,benign,train
+1379,ONLY 4 LEFT,scarcity,test
+1338,Limited quantity!,scarcity,train
+1711,DON'T MISS ON THESE AWESOME ITEMS / DON'T MISS ON OUR TABLE DECORATION SYSTEM,misedirection,train
+1325,Hurry! Only 15 left!,scarcity,train
+713,Motocross Boots,benign,test
+1328,Remove Product?,benign,train
+1315,Nursery,benign,train
+822,Footwear Accessories,benign,train
+1429,Only a few more left!,scarcity,train
+592,0011Days:0088Hours:4411Minutes:21125445Seconds,urgency,train
+103,and future features included!,benign,train
+167,69 people are viewing this,social_proof,train
+1415,Only 4 items left in stock.,scarcity,train
+1550,Natural Backgrounds,benign,test
+1009,Speed Lace Accessory Kit - Orange,benign,test
+389,"No Thanks, I Prefer Paying Full Price",misedirection,validation
+1658,"Package RecyclingWe do try when possible to reuse packaging from our own suppliers in order to send purchased items to our customers, we ask if the packaging is still in good condition after you've received your goods then please try to use it again or recycle if not possible.",benign,train
+817,"Ends in 1 Days, 4 Minutes, 44 Seconds",urgency,validation
+1451,In Stock - Limited Quantity,scarcity,validation
+128,on Freight,benign,train
+527,Canvas Wall Art,benign,test
+1524,Only 8 left in stock. Almost Gone!,scarcity,train
+719,JFN V Neck Lace Cut-Out Basic T-Shirt/Tee,benign,train
+766,or,benign,validation
+1197,Short Sleeve Dresses,benign,train
+1059,"Limited time only: FREE SHIPPING on all orders, no minimum required!",urgency,train
+387,"No thanks, I don't like promotions and exclusive content.",misedirection,train
+724,Shop All Lehenga Choli,benign,test
+1330,Lack Of Color,benign,test
+61,Eye Protection,benign,train
+1472,10 Left,scarcity,validation
+1468,REPLACE-WITH-DYANMIC-HOST-ID,benign,train
+209,TVs,benign,validation
+1124,Only 2 left,scarcity,train
+1428,Temporary Tattoos,benign,train
+674,3Days01:49:51 Left,urgency,train
+190,Log in / Create an account,benign,train
+758,Your order is reserved for 07:28 minutes!,urgency,train
+1667,"is full of sorrow and joy that weaves the life stories of its characters, exploring relationships, illness and loss * Manchester Weekly News *",benign,train
+208,OH SO POPULAR! 21 bought in the last 7 days.,social_proof,train
+442,"No Thanks, I'll Pay Full Price",misedirection,train
+1268,Card Storage,benign,train
+288,2 customers recently bought it,social_proof,validation
+1069,Only 1 left in stock,scarcity,train
+1009,Horizon Wide Neck Sweatshirt,benign,test
+1536,All Womens Accessories,benign,train
+1166,Only 1 left in stock! Get in quick!,scarcity,train
+1648,Strip Softbox,benign,train
+720,You left 2 items in your bag Released in: 29 minutes :07 seconds,urgency,test
+1056,Your first payment will be due on the day of your purchase.*,benign,train
+58,7 people have it in their cart,social_proof,train
+1119,Pre-order 3 left,scarcity,train
+673,Offer ends in 15hrs 1min 56sec!,urgency,test
+974,"Hurry, this style is selling fast!",scarcity,train
+1736,Glows In The Dark,benign,test
+1469,Towel Rails & Racks,benign,train
+568,"When you place healing crystals in a symmetrical fashion and activate it with a crystal wand, the pattern is charged to send messages to the universe. A healing crystal grid uses sophisticated symmetry for manifestation.",benign,test
+1104,"Hurry, only 3 left!",scarcity,train
+538,FREE NECKLACE FOR MOM 01Days 01Hrs 35Mins 02Secs,urgency,train
+1648,Quick Release,benign,train
+976,Blonde/Bleached Hair: All colors look great. Silver won't be prominent on bleached hair though.,benign,train
+1064,"Free Upgrade, Limited Time!\n*DISH Install Not Available*",urgency,validation
+103,Chatting,benign,train
+822,Specialist Tools,benign,train
+822,Menu Search,benign,train
+1056,Fashion Bags,benign,train
+424,"No thanks, I don't like discounts",misedirection,train
+1450,Going Fast: Limited Quantities Left!,scarcity,train
+1351,This is a green tea without the bitterness.,benign,test
+216,Spring Styles,benign,validation
+1367,Rate & Review,benign,train
+1265,Only 498 left,scarcity,test
+638,Cooper Remotes,benign,train
+206,Over 38 bought,social_proof,train
+1630,Mitre Saws,benign,train
+827,Christian Dior,benign,validation
+117,Share this product,benign,train
+1630,Space Heaters & Workshop Heaters,benign,train
+1240,Hurry! Only a few of these left,scarcity,train
+1646,Only 2 Left!,scarcity,train
+1466,Animals & Action Figures,benign,train
+1563,only 2 left,scarcity,train
+1273,Only 1 Item Left!,scarcity,train
+695,HAUTELOOK 04:53,urgency,train
+1160,Only 1 item left,scarcity,train
+1367,WANNA COLLAB?,benign,train
+1736,PopTop Refine by Product Type: PopTop,benign,test
+981,* Limited Time Offer *\nFREE\nTLPWR1 Test Leads!,urgency,train
+767,Earn FanCash on all purchases!,benign,train
+1468,Bob's Outreach,benign,train
+1658,Cleaning Brushes & Tools,benign,train
+1648,Sunwayfoto,benign,train
+39,85 have it in their cart,social_proof,train
+417,No thanks. I'd rather pay full price.,misedirection,train
+1479,Only 3 pieces in stock!,scarcity,train
+1079,ONLY 3 LEFT IN STOCK.,scarcity,train
+1446,Free Embroidery Patterns,benign,train
+1469,Mixing & Measuring,benign,train
+1759,"To qualify, simply verify your status during checkout on the payment step. We verify through ID.me, our trusted technology partner for secure digital identity verification.",benign,validation
+450,"no thanks, I'll save money another day",misedirection,train
+257,"Shopper from Saint John, NB viewed Lenovo ThinkCentre M710t 10M9000RUS Desktop Computer 3 minutes ago!",social_proof,train
+1409,Only 2 Left In Stock,scarcity,train
+361,Best-Selling Products,benign,train
+1028,LIMITED TIME ONLY!,urgency,train
+1293,Subscribe! Don’t be caught empty handed,benign,validation
+246,Add to Cart,benign,train
+990,"Now 30% off - hurry, limited time offer!",urgency,validation
+1541,The requested page could not be found,benign,train
+1468,View In Your Room,benign,train
+1174,EVO SP All EVO SP parts and accessories,benign,train
+1434,Circa Punches,benign,train
+752,Riding Culture Neue Lifestyle-Marke bei motoin,benign,train
+667,Ericdress Long Sleeve Mesh Off Shoulder Summer Dress,benign,train
+1351,Green Tea is made up of properties that have been known to increase caloric expenditure as well as the metabolism of fat,benign,test
+350,COLLEGIATE,benign,train
+1653,Sparkling Elegance,benign,train
+287,"To add to Wishlist, please register or sign in.",benign,train
+1110,HURRY! Only a few left in stock!,scarcity,train
+216,New In Lunch Boxes,benign,validation
+1446,Cayman Islands USD,benign,train
+318,"No Thanks, I rather pay full price",misedirection,train
+264,View All Shoes,benign,train
+152,Someone from Airdrie & 10820 others bought this item recently.,social_proof,train
+1330,Rachel Comey,benign,test
+204,52 people are looking at this right now.,social_proof,train
+845,1 day 08:15:25,urgency,validation
+173,"estiven in Deer Park, United States purchased PreWash™ 4 oz",social_proof,train
+833,Delivery & Offers Terms,benign,train
+106,"Oscar from Cajamarca, Peru purchased",social_proof,train
+353,New Arrivals,benign,train
+569,Buy Tablets,benign,test
+1573,Only 3 Left,scarcity,train
+69,Present your Fave voucher (it's in the Purchases tab under My Fave) at the outlet.,benign,train
+1393,ONLY 1 REMAINING,scarcity,train
+1648,Point & Shoots,benign,train
+190,Already have an account?,benign,train
+568,"Mystic Topaz: Rings, Earrings, Necklaces and Bracelets",benign,test
+1719,Necessary Protection..,misedirection,train
+530,Joybird Design House,benign,test
+1158,What is a cookie?,benign,train
+301,Someone in Spain purchased,social_proof,test
+1599,LIMITED QUANTITY,scarcity,train
+527,View All Tops,benign,test
+585,02:06:40 left to buy,urgency,train
+87,Limited Edition Honeycomb Necklace (Bee Inspired) Someone purchased a Limited Edition Honeycomb Necklace (Bee Inspired),social_proof,validation
+415,"NO THANKS, I'll PAY FULL PRICE",misedirection,train
+249,13 people have added this to their cart,social_proof,train
+1550,Panther Anole,benign,test
+1369,Last chance! Only 1 left,scarcity,train
+767,AccessoriesCar AccessoriesDressesFootwearHome & OfficeJacketsLawn & OutdoorsPantsPolosShirts & SweatersShortsSleepwear & UnderwearSwim CollectionTailgatingSale Items- View All -,benign,train
+1056,Pay weekly,benign,train
+113,I have green eyes and with these bright green contacts makes my eyes look out of this world amazing. I love them and they have lasted months!!,benign,train
+1005,Sale ends soon:,urgency,train
+1260,Only 16531 items left in stock!,scarcity,train
+1731,Want a special deal? Bundle and SAVE UPTO30%,misedirection,train
+94,4 people have purchased this item,social_proof,train
+1673,BABY BOYSShoesClothingAccessories,benign,train
+158,NEED ADDITIONAL HELP?,benign,train
+1423,"These cookies are necessary for the website to function and cannot be switched off in our system. These cookies are usually only set in response to actions made by you which include a request for services, such as setting your privacy preferences or logging into your account.",benign,validation
+1231,Only 3 Left!,scarcity,validation
+527,High-Waisted Shorts,benign,test
+1405,Sign In / Join,benign,train
+1663,We only have few stocks left for this product. Please don't miss the chance.,scarcity,train
+765,"Click here to use our website with more accessibility support, for example screen readers",benign,train
+505,Your order is reserved for 09:35 minutes!,urgency,train
+1041,LIMITED TIME ONLY *on select models,urgency,train
+1446,Mixed Media,benign,train
+671,BE QUICK 00:57:33 DON'T MISS OUT,urgency,test
+216,New In,benign,validation
+1451,Remove selected car filter,benign,validation
+792,35% OFF EVERYTHING* EXCL SALE & BEAUTY ENTER: DOLL35 - HURRY! ENDS IN  16H 59M 06S,urgency,test
+1609,Shipping and Duties,benign,validation
+1139,Order by these dates to get it by Valentine's Day.*,benign,train
+767,NFL Enterprises LLC. All Rights Reserved.,benign,train
+1787,LOGIN/REGISTER,misedirection,train
+561,00Days17Hours12Mins13Secs,urgency,train
+1315,Women's Bags,benign,train
+1403,"We're sorry, this store is closed.",benign,test
+145,3 people are looking at this item right now,social_proof,train
+17,"Someone from Menlo Park, California just purchased Electric Skateboard Motor 6374 190KV.",social_proof,train
+858,"Hurry, Limited Time Offer! 11:25",urgency,train
+1328,Search Close,benign,train
+1667,"touching, funny and romantic",benign,train
+1789,"We'd like to keep you informed via email about product updates, upgrades, special offers and pricing. If you do not wish to be contacted via email, please ensure that the box is not checked.",misedirection,train
+1234,Only 2 stock available,scarcity,validation
+1229,Hurry! Only 3 Left In Stock.,scarcity,train
+189,"Sorry, we could not process your request at the moment. Please try again in a few minutes.",benign,train
+1446,Jersey GBP,benign,train
+740,My Account,benign,train
+404,"No Thanks, I Don't Want a Discount",misedirection,train
+1466,Hair Grooming Appliances,benign,train
+1009,Pedal Refresh Kit - Doubleshot,benign,test
+401,I'd rather pay full price,misedirection,validation
+597,Hurry up! Sales Ends in DAYS HRS MINS SECS by Beeketing,urgency,train
+1163,Only 8 items left in stock!,scarcity,train
+1125,ONLY 1 LEFT IN STOCK!,scarcity,train
+1743,Subscribe & Save (15%): $ 16.99,misedirection,train
+1536,Shop Plus Shorts by Pattern,benign,train
+1044,Dry Direct Incontinence Personal Care Daily Living Safety Bedroom Nutrition Mobility Lift Aids Medical Supplies Plus Size,benign,train
+638,Clarity Remotes,benign,train
+1648,Summary,benign,train
+1405,Limited Edition Colors,benign,train
+1736,"For instance, we use cookies allowing us to remember information provided by the users from a page to another, choices made by users and information provided by users (name, language preference, country of residence…). In particular, we use the following functional cookies:",benign,test
+1035,FRAMON #2 Code Machine Offer - Limited time offer!,urgency,train
+1536,Jewelry and Watches,benign,train
+1109,Limited stock!,scarcity,train
+1433,Hurry! Only 2 left in stock!,scarcity,train
+1451,*,benign,validation
+1015,SLEEP EVENT OFFERS - LIMITED TIME ONLY,urgency,validation
+1604,This chart should be used as a guide only. Due to each manufacturer’s size scale inconsistencies may occur.,benign,train
+1626,Only 1 left in Stock!,scarcity,test
+198,Competitions,benign,train
+1328,Shop All Men's Boots,benign,train
+179,Expand My eBay,benign,validation
+283,"Oliver in Rotterdam, Netherlands purchased a England Away Soccer Shorts 2018 About 9 hours ago",social_proof,train
+822,"Jumpers, Shirts & T-Shirts",benign,train
+395,Media Players,benign,validation
+1295,Only 3 left In Stock,scarcity,train
+920,Father's Day Gifts,benign,train
+1390,only 2 left!,scarcity,train
+1372,Only 1 in stock,scarcity,validation
+1377,Only 8 item(s) left.,scarcity,train
+616,Spring Sale Extended,urgency,train
+347,"No, I don't want a discount",misedirection,train
+421,"No thanks, I don't want the free gift.",misedirection,train
+1044,Extra Soft Cleansing Wipes,benign,train
+1373,Men's Accessories,benign,train
+280,jennifer just bought Rainbow Moonstone Healing Heartabout 6 hours ago,social_proof,train
+1051,SAVE $300.00\nfor limited time,urgency,test
+787,Enter Catalog/Email Code,benign,train
+466,"[NO THANKS, I'LL JUST WALK]",misedirection,validation
+638,Yaris Remotes,benign,train
+1513,Currently 8 left in stock.,scarcity,validation
+340,"NO, I DON'T FEEL LUCKY",misedirection,validation
+1457,Currently less than 10 available,scarcity,validation
+998,Ends Sunday! $200 off any mattress . free shipping & free returns!,urgency,train
+247,Stay on Next.co.uk,benign,train
+1206,Only 8 left!,scarcity,train
+1213,Only 1 items left in stock!,scarcity,validation
+1469,___,benign,train
+1381,View All Home Accessories,benign,train
+568,"Healing Crystals are natural beings just like the trees, mountain or flowers. The result of diverse chemical reactions inside the earth over a millennium, gemstones are a true wonder of nature. When you touch a healing crystal, there is a transfer of heat and energy that leads to activation of chakra points. These therapeutic powers noticed in the presence of gemstones are the reason they are called healing crystals. With some crystals as old as the earth, there is immense wisdom in crystal use.",benign,test
+1446,How to cast on,benign,train
+1550,Tree Frog Terrariums,benign,test
+174,9 people are currently viewing this product,social_proof,train
+1623,ONLY 1 WATCH LEFT,scarcity,train
+293,2+ people just viewed this product,social_proof,train
+1583,94% offers claimed. Hurry up!,scarcity,train
+435,I'D RATHER PAY FULL PRICE,misedirection,test
+747,KidsAuthentic,benign,train
+1706,*** Get 50% Off Your 2nd Case OR a Canopy Screen Protector *** A 50% OFF discount will be automatically applied to the lowest priced item in your cart when you check out with more than one item! (excludes Clearance items) Click to Choose Another Item,misedirection,test
+850,Country (Optional),benign,train
+230,Hair treatments,benign,train
+1736,Product Recycling,benign,test
+1432,Only 6 items left,scarcity,train
+313,39 people have this in their cart,social_proof,validation
+113,Sunflower,benign,train
+1177,23% left in stock!,scarcity,validation
+1573,Gold Collection,benign,train
+1592,In Stock. Only 1 Left!,scarcity,validation
+1146,Status:Only 3 left in stock,scarcity,train
+396,No thanks - I don't want to save money,misedirection,train
+1723,Amazing service and quality! Lee up the excellent work.,benign,validation
+513,Today's sale ends in: 00hours:57min:19sec,urgency,train
+1128,ONLY 7 LEFT!,scarcity,train
+1333,"Business, Office & Industrial",benign,test
+1330,My Story,benign,test
+134,8 people are looking at this artwork,social_proof,train
+1351,Coffee,benign,test
+1723,Add on something to make it extra special!,misedirection,validation
+1056,Take time to pay.,benign,train
+808,OFFER ENDS 00:54:59,urgency,test
+1734,Other Items On Special Offer:,misedirection,train
+993,LIMITED TIME SALE,urgency,train
+428,"NO THANKS, I DON'T WANT TO SAVE",misedirection,train
+414,Authenticity Guaranteed,benign,train
+117,GeekVape Pursue a Healthy Vaping Experience,benign,train
+1679,320 items left,scarcity,train
+1340,HURRY! 3 left in stock!,scarcity,test
+158,Nectar,benign,train
+1451,My Project Lists,benign,validation
+300,Adjustable Cuffs With Inner Knitted Cuff,benign,validation
+638,Tribeca Remotes,benign,train
+1158,Brand,benign,train
+1044,"The Dry Direct Ultimate is a great product, the best we have found. Customer service is very efficient, and deliveries have always been on time. We are very satisfied with Parentgiving in all aspects.",benign,train
+1649,(ONLY 1 LEFT IN THIS SIZE!),scarcity,train
+1627,Only 65 Items Left.,scarcity,train
+1270,Only 3 left in stock.,scarcity,train
+459,I Don't Like to Save Money,misedirection,validation
+1350,"In Stock, Only 1 Left!",scarcity,validation
+113,Really good quality contacts and they work well on my eyes. Would definitely order again!!!!,benign,train
+596,Explosive Offers! 80% Off Everything 07:25:41,urgency,train
+822,Warne Mounts,benign,train
+1736,Report a Fake Product,benign,test
+1026,Shop All NFL,benign,train
+1446,Tapestry Guide,benign,train
+1300,Only 4 left,scarcity,train
+790,I absolutely loved it! It made everyone laugh and my desk gets an obscene amount of compliments for it. The quality is superb! I am now definitely going to be a loyal shopper at PosterGully,benign,train
+1459,Decades Shop,benign,train
+369,I'LL PAY FULL PRICE,misedirection,test
+1241,gifts for wife,benign,validation
+1246,Hurry only 1 left!,scarcity,train
+1345,Only 8 item(s) left,scarcity,validation
+382,"No thanks, I’d rather not win.",misedirection,train
+1387,"LOW IN STOCK, only 2 left",scarcity,train
+1192,74% offers claimed. Hurry up!,scarcity,train
+1536,Color Block,benign,train
+357,I'd rather not save,misedirection,validation
+1446,Only 2 left in stock!,scarcity,train
+1351,You have no items in your basket.,benign,test
+362,"no thanks, I hate fun & games",misedirection,train
+529,00 Days 02 Hrs 26 Mins 12 Sec Sale Ends Once The Timer Hits Zero!,urgency,test
+811,Soft Flexible (Classic),benign,validation
+306,Glasses and Goggles,benign,train
+1044,Zero Gravity Lift Chairs,benign,train
+80,"Bobby in Decatur, United States just purchased",social_proof,train
+112,"tuvia eisenberg Systematics in Tel Aviv, Israel purchased a",social_proof,train
+683,Your Cart Will Expire In 09:58 minutes!Please note that these items may not be available again if you release them.,urgency,train
+1446,All Cross Stitch Patterns,benign,train
+1330,Year of Ours,benign,test
+1658,Gear Up,benign,train
+883,"Weight Management Shakes help cut cals, control appetite, and drop LBS.* Learn more about Weight Management Shakes.",benign,train
+1330,Tretorn,benign,test
+907,Loyalty Points,benign,train
+919,How to Recycle,benign,validation
+353,Color Yellow Smoke Blue Pink Orange,benign,train
+849,SAVE 10% On All Orders. No Voucher Code Needed Expires in 18:07:59.,urgency,train
+1469,Art & Crafting Tools,benign,train
+291,One customer bought this article in the last 53 min.,social_proof,test
+4,Highlight Hover,benign,validation
+1044,Disposable Washcloths,benign,train
+1051,Accuscreens,benign,test
+1197,Jumpers + Sweaters,benign,train
+113,Contact Lens Washer,benign,train
+1173,Only 9 Left!,scarcity,train
+1327,Hurry! Only 2 left!,scarcity,train
+18,2 people are looking at this listing now,social_proof,train
+1488,Every Purchase Helps Your NRA:,benign,train
+1175,1 left at this price,scarcity,train
+1051,BACK TO TOP,benign,test
+1421,ONLY 12.5M LEFT IN STOCK!,scarcity,train
+1732,Protect Your Gear,misedirection,train
+1013,Outdoor Recreation,benign,train
+230,Allow All,benign,train
+108,We are currently accepting and processing orders from following:,benign,validation
+1013,What could have caused this?,benign,train
+191,210+ bought,social_proof,train
+457,"No thanks, I'm not interested in saving money.",misedirection,validation
+1367,SHIPPING INFO,benign,train
+230,"Plus, get free shipping on your first order!",benign,train
+638,BMW Remotes,benign,train
+1759,All You™,benign,validation
+292,Someone in Mount Louisa bought a Coleman Folding Table & Bench Set 2 minutes ago,social_proof,validation
+622,Summer Casual Printed Short Sleeve T-Shirt,benign,train
+1488,Join NRA or Renew,benign,train
+1708,Don't forget the essentials Get up to 2 years of accidental damage coverage with AppleCare+.,misedirection,train
+103,Know exactly what’s going on at home and be alerted of emergencies in real time.,benign,train
+638,Become an Affiliate,benign,train
+1810,Competitor Price: $172.00,misedirection,validation
+438,"No thanks, I'd rather pay more",misedirection,train
+1151,6 items left! Order soon.,scarcity,train
+811,Sports,benign,validation
+1582,ONLY 20 LEFT IN STOCK,scarcity,train
+414,Immunity & Well BeingLean Muscle MassWeight LossBulk GainStress & Relaxation,benign,train
+1604,By Brand All Men's Brands,benign,train
+1673,Customer Feedback,benign,train
+1013,Read the FAQ,benign,train
+1232,ONLY 1 LEFT,scarcity,validation
+364,"No thanks, I don't want 15% off",misedirection,train
+680,"The presence of flowers is enough to make any occasion or moment truly a memorable affair. Flowers can make an ordinary room extremely beautiful. Flowers are widely used in decorations, as gifts, or even as ornaments on various dresses. People can explore a variety of fresh vibrant flowers such as roses, tulips, orchids, carnations, sunflowers, chrysanthemums and a lot more through the help of our online gifting store. All these beautiful flowers will be delivered at your desired destination in blooming condition only. With an unmatched beauty and fragrance, these gorgeous and lovely flowers can easily mesmerise any individual in an effortless manner.",benign,train
+307,"Ashley in Auburn, United States purchased a Check Plz iPhone X/Xs Case about 24 minutes ago",social_proof,train
+193,99 people are looking at this right now,social_proof,validation
+237,"Someone from South Gate, California just purchased the Admiral JR / Spektrum Servo Connector Plug Set (Male and Female - 2 Pairs)",social_proof,train
+398,Medium GreyLogan T-Shirt Jersey Comforter and Sham Set,benign,test
+680,All Birthday Gifts,benign,train
+1609,Rainbow Li,benign,validation
+1466,• Recommended to be used with Downy for better long lasting freshness,benign,train
+1575,cookie host,benign,train
+1487,Only 4 left!,scarcity,train
+1461,Almost Sold Out! Only 2 Left.,scarcity,train
+287,Pay With:,benign,train
+623,Days left until the offer ends: 00 Days 04:43:35,urgency,test
+1158,Data Processor Privacy Policy: https://videoly.co/privacy-policy,benign,train
+1604,School Shoes,benign,train
+622,V-neck Casual Loose Embroidered Short Sleeve Blouse,benign,train
+1799,Spin to unlock your mystery offer,misedirection,test
+1423,Only 2 items left in stock.,scarcity,validation
+135,104 people viewed this product recently!,social_proof,train
+306,Material: Made with Cordura fabric,benign,train
+270,"Armin Dinovic bought 10M Runescape 3 Gold Order total: 3,70€ About 10 seconds ago",social_proof,train
+209,Recent searches,benign,validation
+1730,"Gorgeous, lasting high-quality hair color—crafted in Italy.",benign,train
+1407,Only A Few Left,scarcity,test
+569,Apple iPhone X »,benign,test
+16,Rebecca in Buffalo just bought Sateen Twill Swatchabout 1 hour ago,social_proof,train
+1428,Certified Face Masks,benign,train
+1736,Price Low To High,benign,test
+1456,1 in stock,scarcity,test
+40,"Leah Rich in Louisville, United States purchased a",social_proof,test
+1536,Home + Tech Almost Gone,benign,train
+1066,SAVE TODAY: Save 20% on lighting by Le Klint. Limited time only.,urgency,train
+1578,Only 3 Left! Get it before it`s gone!,scarcity,train
+473,"No thanks, I'll be the last to know.",misedirection,train
+1694,Hurry Up ! Just 2 Items Left in stock,scarcity,train
+1653,Toe Ring,benign,train
+1009,Women's Acid Wash Scoopneck Sweater,benign,test
+248,62 people have looked at this item in the last few hours.,social_proof,validation
+1536,Boys Grey School Uniforms,benign,train
+124,8 customers have bought today,social_proof,validation
+287,My Reviews,benign,train
+1259,Last 1 in stock,scarcity,train
+1293,Skin Concerns,benign,validation
+1087,Only 1 left!,scarcity,train
+1383,Only a few left,scarcity,train
+527,Romper Swimwear,benign,test
+1468,View All Mattress Accessories,benign,train
+1139,The page you were looking for doesn't exist.,benign,train
+724,A very fun outfit for a less formal event like a sangeet! Husband said the bell bottom type pants were fun to dance in :),benign,test
+1013,Chair Accessories,benign,train
+458,"No Thanks, I'll let this offer sail away",misedirection,validation
+991,Stay in the Know,benign,train
+622,V-neck Casual Loose Vintage Print Short Sleeve T-shirt,benign,train
+1664,Limited stock available,scarcity,train
+108,Thank you for posting a question!,benign,validation
+628,Installation InstructionsPolicies & Terms of UseFinancingSite Map,benign,train
+350,Golf Shop,benign,train
+680,Plastic,benign,train
+1009,Synthesis XCT Alloy Front Wheel,benign,test
+1536,Shop Tops by Pattern,benign,train
+1536,Striped Tops,benign,train
+247,My AccountSign-in to your account,benign,train
+498,"Due To HIGH Demand, Cart Expires In: 08:41",urgency,train
+1195,ONLY 3 LEFT! GET IT NOW!,scarcity,train
+136,5 people are looking at this product right now,social_proof,test
+833,Get The Look The Full Story Shop Now Read More,benign,train
+4,Don’t worry. We’ve got your back.,benign,validation
+543,Hurry up! Discount Ends in DAYS HRS MINS SECS,urgency,test
+947,Extremely high demand: expect 2-4 weeks for it to arrive (to be safe). Limit 4 per person!,scarcity,test
+1373,C.P. Company,benign,train
+75,In other users' carts 59,social_proof,train
+1330,Nicholas Kirkwood,benign,test
+1759,Aids mental processing†,benign,validation
+218,"Awhi from Hicks Bay, Gisborne, New Zealand just bought",social_proof,train
+1434,Crossbody & Belt Bags,benign,train
+776,clear text,benign,test
+143,24 people currently interested,social_proof,train
+179,Worldwide,benign,validation
+272,AboutOur StoryOur MissionOur ProductsIn the News,benign,train
+76,5 Viewing This Product,social_proof,train
+131,23 People viewing this product,social_proof,train
+533,Activate within 0:30:00,urgency,train
+1469,Concrete Tools,benign,train
+1451,Transmission and Driveline,benign,validation
+57,"James in Cashion, Oklahoma just bought Glossy Black Brick Geode / Amber Gradient Fast Lanes",social_proof,test
+234,Fast Mover: 35 PEOPLE added this to cart today!,social_proof,test
+1317,"Metal - Brass , hollow from inside",benign,train
+412,"No thank you, I prefer to pay full price",misedirection,train
+1026,to read up about,benign,train
+664,• State-by-State Restrictions,benign,train
+147,DON'T LET 'EM GET AWAY Several people have recently viewed this item.,social_proof,train
+436,No thanks. I prefer paying full price.,misedirection,test
+10,"Crystal Li in Flushing, United States purchased a",social_proof,train
+1416,Only 5 Left in Stock. Buy Soon!,scarcity,test
+1044,PG Picks: Skin Care for Incontinence,benign,train
+245,"Carl F. from Fort Ann, NY bought a King",social_proof,test
+302,137 users are currently active on our website,social_proof,train
+822,Reloading Tools,benign,train
+139,"Edwin in Woodland Park, NJ just bought",social_proof,validation
+638,Returns / Warranty,benign,train
+1136,83% offers claimed. Hurry up!,scarcity,train
+1289,Loading,benign,test
+1488,Institute for Legislative Action,benign,train
+1588,Clearance! Only 4 left in stock.,scarcity,test
+1333,"from Korea, South",benign,test
+180,"Jeremy in Stockton, United States purchased a",social_proof,train
+1550,Only 4 Left!,scarcity,test
+1317,Alchemy Books,benign,train
+627,"When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.",benign,train
+1336,Only 1 products left,scarcity,train
+1248,1 left in stock,scarcity,validation
+89,🔥 9 people are viewing this.,social_proof,validation
+266,715 people have added this item to cart,social_proof,test
+1736,Black / White Refine by Color: Black / White,benign,test
+1673,Call It Spring,benign,train
+1469,Bathroom Basins,benign,train
+103,Infrared Night Vision,benign,train
+680,Download mobile app,benign,train
+353,Write a reviewAsk a question,benign,train
+497,00DAYS02HRS14MINS1211SEC,urgency,train
+133,RegionBracket Right,benign,train
+638,Boxster Remotes,benign,train
+122,24 people have purchased this wine today,social_proof,train
+1667,Rare Book Conditions,benign,train
+1610,Hurry! Less than 10 left!,scarcity,train
+397,"I DON'T LIKE FREE GIFTS, NO THANKS",misedirection,train
+754,We don't give out your details to third parties.,benign,train
+1499,Short Sleeve T-Shirts,benign,train
+1696,ONLY 13 LEFT,scarcity,train
+153,Someone in Yanchep bought a 52mm Mechanical 'Performance' Boost Gauge - Blue/White 9 seconds ago,social_proof,train
+61,Tires,benign,train
+96,Someone in Egypt bought,social_proof,train
+188,"mark in richmond hill, United States purchased a Fugoo Tough 11 minutes ago",social_proof,train
+1550,Bearded Dragon Substrates,benign,test
+1536,Toddler Girl Jumpsuits and Rompers,benign,train
+1009,Enable cookies to use the shopping cart,benign,test
+1026,Women's Go-Tos,benign,train
+1604,"This genuine Spanish espadrille impressed our buyers so much they ordered them in a variety of gorgeous colours. With its uncomplicated design, plush leather sole and a practical platform wedge, you'll have a hard time getting through the warmer months without them. They're perfect for the beach, casual weekend barbeques or brunch with the girls.",benign,train
+753,HURRY! DON'T MISS THIS DEAL! DAYS 0 1 HRS 1 2 MINS 3 1 SECONDS,urgency,validation
+418,"No, I'd rather pay full price.",misedirection,train
+212,Shopping with JD,benign,validation
+1373,All Brands A-Z,benign,train
+247,Light Blue Regular Fit Single Cuff Easy Care Shirt,benign,train
+527,Crop Tops,benign,test
+1051,Photography Projector,benign,test
+527,Salt Bender Tank and Shorts Combo,benign,test
+1241,Diamond Nose Studs,benign,validation
+1149,Military Discount,benign,test
+1736,"Customize your phone with hundreds of grips, cases, wallets, and more.",benign,test
+5,5338 people viewed this in the last hour,social_proof,train
+1653,Only 1 item left in stock,scarcity,train
+1197,Add to Wish List Add to Compare,benign,train
+453,"No Thanks, I don't want a discount",misedirection,validation
+1672,Availability: In Stock Hurry! Only 8 Left!,scarcity,train
+984,Italy € EUR,benign,test
+1488,Politics And Legislation,benign,train
+1323,Fewer than 5 left!,scarcity,train
+1009,Gift Cards Collection,benign,test
+465,"No Thanks, I prefer paying full price.",misedirection,train
+300,We guarantee to match a lower online price.,benign,validation
+1037,"Hurry, before it is gone! Limited time remaining!",urgency,train
+6,"Keith in Champaign, Illinois bought Mini USB Audio Cassette to MP3 Converterabout 56 minutes ago",social_proof,validation
+1604,Select your size below and we'll email you if it comes back in stock!,benign,train
+1466,Only 867 left,scarcity,train
+920,About Cheryl's Business Gifts,benign,train
+1067,Only 2 units left in stock,scarcity,train
+714,You can either livechat or email our support team with any questions or concerns. We are always ready to help.,benign,validation
+1159,Only one item left in stock!,scarcity,train
+1009,Synthesis E-MTB Alloy Rear Wheel,benign,test
+991,LIMITED TIME DEAL!,urgency,train
+1554,Only 3 available,scarcity,train
+1202,Only 1 left in online stock,scarcity,train
+361,Great for shine,benign,train
+861,Learn More,benign,train
+907,"Paper, Pads & Blocks Toggle category Paper, Pads & Blocks",benign,train
+1356,Hurry! Almost Sold Out...,scarcity,train
+189,.,benign,train
+1484,Only 2 copies left,scarcity,test
+1446,Christmas Craft Ideas,benign,train
+1228,Limited Quantity Available,scarcity,validation
+350,"No Thanks, I Don't Like Exclusive Offers.",misedirection,train
+286,"Trey in Sparta, United States purchased Stealth Angel Ultra Lightweight & Portable Sleeping Bag about 45 minutes ago",social_proof,train
+1437,2 items left,scarcity,train
+1522,PomeloFashion born in AsiaOn trend. Online. On the go.,benign,train
+1591,"Available, only 2 left",scarcity,train
+51,"Someone in San diego, United States just bought Gemfield Watch 15 days ago",social_proof,train
+1367,Cowgirls,benign,train
+729,Rs INR,benign,train
+113,- +,benign,train
+1779,If I emailed you how much I love each jersey you’d have an essay coming your way!,benign,test
+264,Shirts & Blouses,benign,train
+719,JFN Ladies Flat Embroidered Slip-On Dirty Shoes Vintage Thong Sandals,benign,train
+212,New in,benign,validation
+1468,About Bob's,benign,train
+236,22 people have looked at this part recently,social_proof,train
+1043,Limited Time!,urgency,test
+19,4 sold in last 5 hours,social_proof,train
+1,Collin P. from Grandview Missouri just bought BURGUNDY TWO BUTTON SUIT ABOUT 5 SECONDS AGO,social_proof,train
+571,Your order is reserved for 08:53 minutes!,urgency,train
+1317,Rudraksha Recommendations,benign,train
+818,OFFER ENDS: 09h: 09m: 55s: 0,urgency,train
+1789,Added to Favorites,benign,train
+24,"Kamal in Lathrop, United States purchased a Father Sons Super Slim Stretch Feather Print Long Sleeve - FS429 4 hours ago",social_proof,test
+1536,Brown Dresses,benign,train
+72,Someone in city just added Radiance - Nebulizing Diffuser® to their cart,social_proof,train
+113,"They look really good with my brown eyes, and they look pretty natural.",benign,train
+1158,Data Processor Privacy Policy: https://www.appnexus.com/corporate-privacy-policy,benign,train
+1362,Hurry! Only 1 Pair left!,scarcity,validation
+1536,Plus Size Graphic Tops,benign,train
+1648,Protection Filters,benign,train
+769,Flash Sale - Almost Over! 00 HOURS : 55 1001 MINUTES : 0550 8778 SECONDS,urgency,train
+1609,Interactive Tent Finder,benign,validation
+504,Cart will expire in 04:53 minutes!,urgency,test
+827,✕,benign,validation
+1301,"Hurry, Only 4 Left In Stock. Buy Now!",scarcity,train
+1590,take me back to shopping,benign,train
+1268,Only 7 left,scarcity,train
+1093,89% offers claimed. Hurry up!,scarcity,train
+416,"No thanks, I hate cool stuff",misedirection,test
+197,Cheryl in Ontario bought 100% Organic Reishi Mushroom Powder 100g about 16 minutes ago,social_proof,test
+1389,20 units left,scarcity,train
+949,High demand,scarcity,train
+69,3642 BOUGHT,social_proof,train
+1669,5 in stock,scarcity,train
+269,"Nancy in Pennsylvania purchased 24"" Italian Sterling Silver Milano Twist Adjustable Chain",social_proof,train
+766,Solar Powered Paw Print Ground Light,benign,validation
+1072,Only 1 left,scarcity,test
+1446,Candy Melts,benign,train
+714,Romantic Ball Gown Tulle Spaghetti Sleeveless Tier Flower Dirl Dress,benign,validation
+272,"Abbie in Calwell, Australia purchased Shark Bite Socks about 1 hour ago",social_proof,train
+195,Last purchase was 18 minutes ago by someone from Dublin,social_proof,train
+148,7 users have looked at this product in the past 6 minutes,social_proof,validation
+1317,Crystal Shivlingas,benign,train
+754,Facebook icon,benign,train
+1489,Midleton Very Rare,benign,train
+1044,Pillow & Foam Bed Wedges,benign,train
+680,"Happiness is to hold flowers in both hands. Furthermore, flowers make for an integral part of all occasions and celebrations........ Read More...",benign,train
+276,Contact Support,benign,validation
+1221,Only 7 in Stock!,scarcity,train
+1759,Use the left and right arrow keys to navigate the Menu. Use the enter key to activate the submenu on a navigation item. Use escape key to close the submenu.,benign,validation
+1742,Score! You've Qualified for a Checkout Bonus,misedirection,train
+263,"Someone in Cashmere bought a 
+RCM Cosworth Timing Belt Kit 99-02MY EJ20/22/251 hour ago",social_proof,train
+337,"No thanks, I don't like FREE stuff.",misedirection,train
+1714,"No thanks, I just want the item",misedirection,train
+1380,ONLY 1 LEFT IN STOCK,scarcity,test
+227,Trending now! Added to basket 38 times today,social_proof,train
+984,Love the way you pay,benign,test
+1673,Homeware Trends,benign,train
+1330,Victoria Victoria Beckham,benign,test
+1337,"In stock, only 1 products left",scarcity,test
+1373,LAST 1 LEFT,scarcity,train
+1330,Rain Boots,benign,test
+1227,only 2 left in stock,scarcity,train
+414,"No thanks, I don't like deals.",misedirection,train
+1466,Exterior Accessories,benign,train
+1205,"Size low on stock, only 1 item left",scarcity,train
+1469,Strength & Functional Training,benign,train
+242,8 people have this in their bag right now.,social_proof,train
+1648,Motion Control System,benign,train
+194,11 people viewed this today!,social_proof,train
+158,View All Home Accents,benign,train
+113,SUBSCRIPTION SUCCESSFUL. THANK YOU!,benign,train
+1630,Lawn Mowers,benign,train
+984,Sale Clothing,benign,test
+622,Fashion Floral Short Sleeve Dress,benign,train
+1700,How about one of these hot sellers?,misedirection,train
+1183,Only 3 left,scarcity,train
+1052,"Now 20% off, hurry limited time offer!",urgency,train
+1536,Boys Red School Uniforms,benign,train
+446,"No thanks, I don't want a free gift.",misedirection,train
+610,"Hurry! Sale Ends In:
+
+02:59:50",urgency,train
+8,info@chainedandable.com,benign,train
+352,"NO, I'D RATHER PAY FULL PRICE",misedirection,train
+681,activate within 10:00,urgency,train
+1130,There is only one product left!,scarcity,train
+557,00DAYS00HOURS47MINUTES36SECONDS SALE ENDS ONCE COUNTER HITS ZERO,urgency,train
+907,SAA Standard Membership - Credit/Debit Card - Automatic Annual Fee,benign,train
+1315,Laundry & Cleaning,benign,train
+1307,"Only 3 left, order soon",scarcity,validation
+1013,Entertainment Centers & TV Stands,benign,train
+320,"No, I don't feel lucky",misedirection,train
+1429,STAY IN THE LOOP!,benign,train
+1388,1 left in stock. Hurry!,scarcity,train
+1000,Blue Raspberry,benign,train
+517,Your cart is reserved for 09:35 minutes.,urgency,validation
+1009,LIMITED TIME ONLY: FREE SHIPPING TO SELECT COUNTRIES ON ORDERS OVER $100!,urgency,test
+1680,ONLY A FEW LEFT!,scarcity,train
+455,"No thanks, I like full price",misedirection,test
+950,HIGH DEMAND,scarcity,train
+719,JFN Crew Neck Floral Vacation T-Shirt/Tee,benign,train
+1412,ONLY A FEW LEFT,scarcity,train
+766,Indoor Festive Lights,benign,validation
+530,"EastwoodModern, sleek and enchanting, the Eastwood Collection provides comfortable seating while still looking mid-century magnificent.",benign,test
+1009,Synthesis Alloy Collection,benign,test
+230,MOST POPULAR,social_proof,train
+1785,"We'd like to send you weekly emails packed full of our lovely products, clearance goodies and cool stuff to win. You can unsubscribe at any time. If you DON'T want to receive these emails, please tick this box. We'd like to send you the occasional brochure so you can get a regular fix of our lovely product! You can unsubscribe at any time. If you DON'T want to receive these brochures, please tick this box. We'd like to introduce you to other brands you might love who will post you the occasional brochure. You can opt out of this at any time. If you DON'T want to receive these brochures, please tick this box.",misedirection,train
+1723,Occasion: Anniversary,benign,validation
+202,8 people have viewed this product today!,social_proof,train
+119,30 people have purchased this item,social_proof,train
+1466,Musical Toys,benign,train
+9,"Chelsea in Burlington, Wisconsin bought Take Out The Boat Jumpsuit, Blackabout 13 minutes ago",social_proof,train
+919,"Skin Concerns: Treats mild to moderate acne (including whiteheads, blackheads, pimples, and hormonal acne) and excess oiliness.",benign,validation
+1008,Limited Time Offer!,urgency,train
+1488,Events and Entertainment,benign,train
+128,About UsNews & Articles,benign,train
+1615,Almost gone! Only 3 left In Stock,scarcity,train
+680,Low Maintenance Plants,benign,train
+1009,Men's Apparel Collection,benign,test
+1658,View All Parts,benign,train
+782,"We are one of the best online printing technology & solution company successfully serving local and international customers to cherish the joy, love and precious moments in life with various products. Being an instrument to spread your joy and love in a beautiful way we take pride in providing the best quality services.",benign,train
+90,3 people are looking at this product,social_proof,train
+36,38 people are viewing this,social_proof,train
+376,"no thanks, I don't like to save",misedirection,test
+604,00 HRS 57 MINS 56 SECS,urgency,train
+1051,Shop all interactive whiteboards,benign,test
+861,Sign up to stay up to date on all White Cloud news and savings!,benign,train
+187,"Stacey in Saint Marys, United States purchased Extra Long (10 Ft) Fiber Cloth Sync & Charge USB Android Cable - Assorted Colors about 30 minutes ago",social_proof,train
+1509,Hurry! Only 6 left in stock!,scarcity,train
+1129,Only 1 Left in this Size!,scarcity,train
+1139,These pieces are not yet in stock but will be shipped as soon as they are available. The estimated ship date will be noted on the product page.,benign,train
+4,"Our website implements the ARIA attributes (Accessible Rich Internet Applications) technique, alongside various behavioral changes, to ensure blind users visiting with screen-readers can read, comprehend, and enjoy the website’s functions. As soon as a user with a screen-reader enters your site, they immediately receive a prompt to enter the Screen-Reader Profile so they can browse and operate your site effectively. Here’s how our website covers some of the most important screen-reader requirements:",benign,validation
+1317,Only 7 left!,scarcity,train
+113,Yearly,benign,train
+542,"to resolve the issue, or",benign,train
+1429,Shop by Activity,benign,train
+1343,Home »,benign,train
+573,Lace Front African American Wigs,benign,train
+638,SRX Remotes,benign,train
+1197,PAVILION LONG SLEEVE SHIRT DRESS Cornflower Stripe,benign,train
+165,"Son in Suisun City, United States purchased Commander Lex",social_proof,train
+1009,Icon MTB Socks - Black/Green,benign,test
+638,Focus remotes,benign,train
+711,3DAYS124606,urgency,train
+638,Signup for email updates from Car and Truck Remotes!,benign,train
+4,"Easy, awesome! ready to go. Held a charge first night",benign,validation
+92,More than 752 users are adding shapewear to their cart. Is your size left?,social_proof,train
+1480,Newborn & InfantYouthAdjustableFlexSnapbacksSale Items- View All -,benign,train
+353,Flat Top,benign,train
+776,CPUs & Processors,benign,test
+414,Brand Directory,benign,train
+325,"No, I don't feel lucky.",misedirection,validation
+1510,Only 2 left in stock. Make it yours.,scarcity,test
+568,,benign,test
+31,"Sayeeganesh in Chennai, India just bought Dhoni the Finisher T-Shirt an hour ago",social_proof,validation
+1203,Only 1 left in stock.,scarcity,train
+1268,Candy & Snacks,benign,train
+1279,"Only 1 left , In Stock",scarcity,train
+140,65% of our customers added Surefit protection this year.,social_proof,validation
+995,50% OFF for Limited Time Only!!!,urgency,train
+4,Active Filters English English ✘ Remove Filter,benign,validation
+812,HURRY! ENDS IN: 11 HRS 20 MIN 13 SEC,urgency,validation
+68,"Sabrina in Paraparaumu, New Zealand purchased a SCHO-KA-KOLA Schokakola energy Chocolate caffeine snack food MRE caffeinated",social_proof,validation
+567,YOUR CART IS ELIGIBLE FOR AN ADDITIONAL 10% OFF Including Current Promotions + Sale & Clearance 00 hours :29 minutes :26 seconds CHECK OUT NOW,urgency,train
+1026,MIN Twins,benign,train
+1446,Wedding Cross Stich & Embroidery Patterns,benign,train
+1590,Choose Type of Cookies You Accept Using,benign,train
+189,★ ★ ★ ★ ★,benign,train
+1565,10 SEATS LEFT,scarcity,train
+1256,(Only 5 Left),scarcity,validation
+1489,Mixed Wine Cases,benign,train
+1740,Let's make sure you have everything else you need,misedirection,train
+1111,80% offers claimed. Hurry up!,scarcity,train
+398,WhiteBoho Rose Comforter and Sham Set,benign,test
+528,Your order is reserved for 09:57 minutes!,urgency,train
+729,₪ ILS,benign,train
+1316,Cooling & Air Treatment,benign,test
+680,"Mother’s Day is undoubtedly a significant occasion for all mothers. But, for the new moms, it is even more special. If you........... Read More...",benign,train
+1058,LAYAWAY SALE WE WILL MATCH YOUR INITIAL PAYMENT. LIMITED TIME ONLY,urgency,train
+767,HURRY! ENDS IN: 10 HRS 40 MIN 00 SEC,urgency,train
+1459,Mary Janes,benign,train
+1295,Select Your Year,benign,train
+103,What treats can I use?,benign,train
+527,We curate the very best in creative and innovative fashion for the EDM Lifestyle.,benign,test
+1488,Only 20 left,scarcity,train
+188,Terms of Service,benign,train
+1550,Upright Plants,benign,test
+633,Your one-time offer! Enjoy 10% off sitewide. Applied at checkout Offer ends in: 04 hrs 37 min 56 sec,urgency,train
+1726,"""Your purchase entitles you to the following special""",misedirection,test
+1317,Brass Shankh,benign,train
+63,2 people are looking right now,social_proof,train
+350,Boys Shorts,benign,train
+971,IN HIGH DEMAND!,scarcity,train
+1601,Low Stock Only 2 left,scarcity,train
+1481,Anaheim DucksArizona CoyotesCalgary FlamesChicago BlackhawksColorado AvalancheDallas StarsEdmonton OilersLos Angeles KingsMinnesota Wild,benign,train
+398,Blankets Throws,benign,test
+861,Shop Disposables,benign,train
+765,Free Delivery to Home & Next day delivery available to store*,benign,train
+1595,Limited-time Deal,scarcity,train
+1045,Limited time - Free Shipping on all orders*,urgency,train
+1469,Surgical & Face Masks,benign,train
+1695,Hurry! Only 4 left in stock.,scarcity,validation
+323,"No thanks, I despise coupons!",misedirection,validation
+1429,Shop Men's Styles,benign,train
+1477,"If you are one of those constantly devoted to healthy eating, weight loss plans,..",benign,validation
+161,"JULIE in Oak Brook, United States purchased a Watercolor Brush Pens 24 Refillable Colors with Travel Case about 10 hours ago",social_proof,train
+1000,"For a limited time, buy 2 Hydroxycut Hardcore Elite, 30 Servings for $30!",urgency,train
+1394,(5 Left),scarcity,train
+1044,Choosing the Best Plus Size Briefs,benign,train
+984,FREE SHIPPING FOR A LIMITED TIME | PRICES ARE IN USD AND INCLUDE ALL IMPORT DUTIES.,urgency,test
+993,Cable Winders,benign,train
+638,TSX Remotes,benign,train
+1526,Only 3 Left In Stock,scarcity,test
+1469,Baby Bathtubs,benign,train
+1174,Only 14 left,scarcity,train
+62,33 people are eyeing this item!,social_proof,train
+1716,"Nice choice. Did you know you’re missing out on these deals with the item in your cart. Suit + Shirt + Tie now $599.99* - Shop Suits, Shirts and Ties Or Get 2 Suit Packages for $1100*",misedirection,train
+321,"No thanks, I don't like saving money",misedirection,test
+1657,Only 1 Left in Stock. Buy Soon!,scarcity,train
+15,19 people have viewed this item,social_proof,train
+822,Crossman Air Pistols,benign,train
+391,"No Thanks, I'd Rather Pay Full Price",misedirection,train
+811,Harry Potter,benign,validation
+1784,FilterSortFeaturedPrice: Low to HighPrice: High to LowAlphabetical: A-ZAlphabetical: Z-A,benign,train
+1439,We only have 8.0000 left in Stock,scarcity,test
+875,"Hurry, Sale ends in 9 Hours!",urgency,train
+1139,Jewelry Care Kit,benign,train
+5,Give a Gift,benign,train
+907,First name *,benign,train
+55,166 people have added this item to cart,social_proof,test
+603,LIMITED TIME LEFT! 00 : 46 : 11,urgency,train
+1653,Speak with our customer-care executive who will help you with your buying.,benign,train
+1658,Mechanic's Wear,benign,train
+128,Please note: we do not ship to PO Boxes,benign,train
+175,"Michael M. from Lacey, WA just bought a Cal King",social_proof,validation
+1293,"Products are automatically delivered on your schedule. No obligation, modify or cancel your subscription anytime.",benign,validation
+1647,There are only 1 item left in stock.,scarcity,train
+1304,Free Shipping*,benign,train
+568,"Crystals are alive. Born inside Mother Earth, crystal energy can be felt just like heat or cold. For chakra training to astrological remedies, discover healing crystals.",benign,test
+827,A-Z Luxury Brands,benign,validation
+1668,ALMOST GONE - only 2 remaining!,scarcity,train
+786,Offer ends in 03 days 19 hours : 54 mins : 22 secs,urgency,train
+258,Over 200 views in 24 hrs,social_proof,train
+1498,"Hurry, only 302 left.",scarcity,train
+822,Shotgun Bore Mops,benign,train
+261,POPULAR 64 others checked this out in the last few hours.,social_proof,test
+1252,ONLY 5 LEFT IN STOCK,scarcity,test
+342,"No thanks, I hate saving money",misedirection,test
+1381,Moroccan Rugs,benign,train
+994,ONLY AVAILABLE FOR A LIMITED TIME,urgency,train
+1351,Sprouting,benign,test
+272,Help us #savethefishies.,benign,train
+1236,5 items left,scarcity,test
+239,This product was viewed 26 seconds ago by someone from Princeton,social_proof,train
+1473,ONLY 1 ITEM LEFT!,scarcity,train
+1692,ONLY 11 LEFT,scarcity,train
+1518,Only a few left of this product!,scarcity,test
+719,JFN Scallop V Neck Solid Casual T-Shirt/Tee,benign,train
+120,Purchased 6 times this week.,social_proof,train
+1446,Crochet Baby Patterns,benign,train
+1083,Felizer Designer Diamond studded Round Dial Metal starp watch for Women & Girls - Silver (Heart design) Analog,benign,test
+264,Home / Black Tapered Belted Cigarette Trousers - Myasia,benign,train
+1140,Only 4 left at this price,scarcity,train
+1667,"Once a celebrated author of short stories now in his twilight years,",benign,train
+212,Recent Searches,benign,validation
+189,Brand case & cloth included,benign,train
+230,Hair Color + Highlights,benign,train
+919,"We combined powerful, yet gentle acne-fighting ingredients with our own unique plant-based complexes to help reduce irritation and redness associated with acne and breakouts. The result? Skin that’s nourished, smooth, and most importantly, clear!",benign,validation
+1305,"Only 2 left, order soon",scarcity,train
+1351,Food,benign,test
+920,MORE WAYS TO SHOP,benign,train
+724,Your shopping cart is empty.,benign,test
+1241,Coin Necklace,benign,validation
+1009,Mallet E Speed Lace - Black/Silver,benign,test
+110,"Someone from Huntingtown, Maryland, United States purchased TopCoat® F11® Polish & Sealer - Web Special Kits Just Now",social_proof,test
+944,Items in your cart are in VERY high-demand.,scarcity,train
+1489,Sign up to our mailing list here and be the first to know about exclusive offers and events,benign,train
+955,Items in your cart are selling fast,scarcity,train
+477,"No thanks, I don't like winning.",misedirection,validation
+1466,Laundry Care,benign,train
+1499,Low in stock: only 2 left.,scarcity,train
+734,Deal Ends In 2 : DAYS13 : HRS10 : MIN24 SEC,urgency,train
+1654,"Order soon, only 1 left!",scarcity,train
+584,This campaign was taken down for content reasons,benign,validation
+1238,"Hurry, only 2 left in stock!",scarcity,train
+767,AdjustableSnapbacksSale Items- View All -,benign,train
+1278,ONLY 5 LEFT IN STOCK!,scarcity,train
+294,Over 238 people have bought this product,social_proof,test
+658,Order in 13:16 to get $200 off your mattress,urgency,validation
+907,Bob Ross Oil Brushes,benign,train
+454,"No Thanks, I'd rather pay full price",misedirection,train
+1730,Terra - Medium Brown,benign,train
+1322,Warning: Last items in stock!,scarcity,validation
+534,Work With More Buyers And Sellers?,benign,test
+61,Lighting,benign,train
+622,Round Neck Casual Loose Patchwork Printed Short Sleeve Blouse,benign,train
+38,39 recently purchased it,social_proof,train
+1034,Limited Time Offer: 10% Off your first order!,urgency,validation
+1466,Computer Accessories,benign,train
+1351,Aromatherapy,benign,test
+1381,A Ritual of Light,benign,train
+1398,Hurry only 2 left,scarcity,train
+127,21 people looked at this during the last 24 hours,social_proof,train
+1536,Black Jeans,benign,train
+534,Build your own powerful multi-vendor marketplace website,benign,test
+965,"Items in your cart are in high demand, but we have reserved your order.",scarcity,validation
+1375,167 piece(s) left for this promo,scarcity,test
+429,"No Thanks, I don't like free stuff.",misedirection,train
+1122,Only 32 left in stock,scarcity,validation
+1481,Less than 10 left!,scarcity,train
+203,CUSTOMER SERVICE,benign,train
+686,Hurry! Sale ends in:,urgency,validation
+1488,NRA Firearms For Freedom,benign,train
+1545,Low in stock,scarcity,train
+1303,Availability: Only 1 Left,scarcity,train
+622,Printed Long Sleeves Casual Blouse For Women,benign,train
+573,Straight Hair Extensions,benign,train
+306,Radio and GPS Pouches,benign,train
+1158,Only 3 left!,scarcity,train
+1597,Only 4 unit(s) available!,scarcity,validation
+1343,Anniversary Gifts by Year,benign,train
+1446,All Scrapbooking Supplies,benign,train
+1699,"No USB or Y-Adapter!? Our USB Sound Card is highly recommended for PC (Mac/Linux/Windows) and works with current gen consoles. The Y adapter is recommended for console gaming, phone, or other TRRS jacks.",misedirection,test
+172,146 people recently purchased this.,social_proof,train
+1454,Only 25 Deals left,scarcity,train
+246,HOW TO MANAGE SIDE EFFECTS,benign,train
+1736,Website Accessibility,benign,test
+790,Item added to cart. View cart and check out. Close,benign,train
+1550,Heat Mats & Strips,benign,test
+775,HURRY! YOUR 10% OFF EXPIRES IN 29:43,urgency,train
+12,3 people bought this item last week.,social_proof,train
+907,Share on Pinterest,benign,train
+1089,Only 8 left in stock,scarcity,train
+565,Hurry! This special sale ends in 2h 42m 0s,urgency,validation
+216,Hype. Home,benign,validation
+672,VIP OFFERS END 00:54:59,urgency,validation
+790,"Roommates agreement... need i say more? this is a great poster for the walls of any house that has more than one person living in it. if you're alone, get it all the same - it'll make you laugh at any given time :)",benign,train
+1158,This is how you can reject or delete your cookies,benign,train
+667,Ericdress Round Neck Three-Quarter Sleeve Mid-Calf Pullover Fall Women's Dress,benign,train
+1451,Email Address,benign,validation
+526,Your cart is reserved for 14:57 minutes!,urgency,test
+386,"No thanks, I don't want any deals",misedirection,train
+1536,Toddler Boy Underwear and Undershirts,benign,train
+1488,Collegiate Shooting Programs,benign,train
+1497,ONLY 1 ITEM LEFT,scarcity,train
+559,01 Hours 37 Minutes 48 Seconds 1/10s,urgency,validation
+907,Supporting All Artists Create because you can,benign,train
+1723,HomeFlowersColourful Mixed Roses Bouquet,benign,validation
+69,Send as giftexpand_more,benign,train
+209,Delivery & Returns,benign,validation
+1622,Only: 9 in stock now,scarcity,train
+1555,"Only 3 left , In Stock",scarcity,train
+1550,Livefood Subscription,benign,test
+249,Grocery & Liquor,benign,train
+680,For Wife,benign,train
+855,"UP TO 60% OFF SPRING SALE PLUS 10% OFF ALL SHOWERS ENTER CODE SHOWERS10 AT CHECKOUT, MUST END TUESDAY 02DAYS  :  04HOURS  :  13MINS  :  28SECS",urgency,train
+103,Great for keeping track of your pup while at work,benign,train
+108,Subscribe,benign,validation
+1167,Powered by,benign,train
+1480,JerseysPantsSleepwear & UnderwearSwim CollectionT-ShirtsSale Items- View All -,benign,train
+1361,"Hurry, Only a few left!",scarcity,train
+811,I love this phone case! 😍 #phonecase #hiraeth #appleiphone #apple #rosegold #loveit,benign,validation
+1253,ONLY 1 LEFT IN THIS SIZE,scarcity,train
+1034,Looking for your order history?,benign,validation
+1164,Only 82 left in stock!,scarcity,train
+1667,Readers looking for some old-fashioned storytelling with a sprinkling of magic will find it here.,benign,train
+1268,Traditional Snacks,benign,train
+993,Travel Accessories,benign,train
+1469,eWriters & Graphics Tablets,benign,train
+8,EU Delivery & Returns,benign,train
+1054,LIMITED TIME OFFER MEN'S CHINOS & 5-POCKET PANTS BUY 2 FOR $59.90 EACH SHOP NOW,urgency,test
+584,Your order will be reserved for 6:56 minutes.,urgency,validation
+1299,LESS THAN 8 LEFT IN STOCK!,scarcity,validation
+1289,United States,benign,test
+1013,Limited Time Sale - Buy Now!,urgency,train
+1536,Mobile Terms of Use,benign,train
+1459,ALL SALE,benign,train
+1469,MyStore,benign,train
+1297,JUST 1 LEFT!,scarcity,train
+1326,"Don't snooze, only 1 left",scarcity,train
+1222,"Don't miss out, only 2 left in stock",scarcity,train
+37,"Someone from Rochedale, Queensland, Australia started buying this!",social_proof,train
+216,Please click,benign,validation
+1468,Box Springs & Foundations,benign,train
+833,Countdown,benign,train
+667,Men's Pullover Sweaters,benign,train
+1604,Tony Bianco,benign,train
+1590,LOGO BLACK,benign,train
+1723,Everything was perfect. The delivery was very smooth and the products were in great condition as well.,benign,validation
+1405,Face Masks,benign,train
+1040,LIMITED TIME OFFER!,urgency,test
+1077,Low In Stock Today,scarcity,train
+1729,Lenscap: Damage Only,misedirection,validation
+1745,With 1-year Care Subscription 10 days history,misedirection,train
+1667,About Ruth Hogan,benign,train
+1271,Don't miss out on this item! There is only 1 left in stock.,scarcity,train
+427,"NO, THANKS. I DON'T LIKE DISCOUNTS",misedirection,train
+423,"No thanks, I'd rather pay full price.",misedirection,train
+992,Wait! Take 10% off Your First Order Deal Expires Soon!,urgency,train
+902,Perhaps you could...,benign,train
+1063,Limited Time Only! 20% Off,urgency,train
+1585,"Hurry, only 2 left in stock",scarcity,train
+622,Casual V-Neck Sleeveless T-Shirt,benign,train
+66,Businesses in the EU buying from a business in the same country are also charged VAT.,benign,train
+207,"Someone in Flemington, United States purchased Anti-Aging Eyelid Tape (Contains 100 Strips) Just now",social_proof,train
+1210,Hurry only 8 items left!,scarcity,validation
+190,Shop,benign,train
+225,Someone in United States just purchased a,social_proof,validation
+1014,LIMITED TIME: $10 OFF! DISCOUNT REFLECTED IN PRICE!,urgency,train
+861,Rechargeable,benign,train
+1541,Redeem Gift Certificates,benign,train
+1469,Hurry! 1 items left!,scarcity,train
+1658,Muc-Off,benign,train
+247,Frequently Asked Questions,benign,train
+113,We value your input. Share your review so everyone else can enjoy it too.,benign,train
+128,"Someone in Byron Bay, NSW just bought",social_proof,train
+1600,Last 1 left,scarcity,train
+1331,Limited quantity available,scarcity,train
+1317,ॐ Welcome to Devshoppe Sign In or Create an Account,benign,train
+1315,Code of Conduct,benign,train
+1648,Macro Focussing Rails,benign,train
+1174,Tactical Rifles,benign,train
+1536,Bottoms Deals,benign,train
+634,Checkout within 04:10 so we don't run out of stock!,urgency,validation
+54,"3,081 people have viewed this item",social_proof,train
+1489,Champagne Taittinger,benign,train
+1328,Hurry! Only 7 left,scarcity,train
+83,"19,302 people have added this item to cart",social_proof,train
+61,"Howdy stranger, looks like your trail has hit a dead end.",benign,train
+740,Maker Faire News,benign,train
+13,31 people seeing this product right now,social_proof,test
+281,3 other people are currently viewing this item.,social_proof,train
+22,Favored By: 400 people!,social_proof,train
+1330,All Shoes,benign,test
+1573,What's New New arrivals daily,benign,train
+160,143 BOUGHT,social_proof,train
+1267,WARNING! Only 5 left in stock!,scarcity,train
+409,"No thanks, I've got too much cool Glock stuff!",misedirection,train
+256,43 added to bag in the last 48hrs,social_proof,train
+1675,67% offers claimed. Hurry up!,scarcity,train
+1469,Party & Birthday Novelties,benign,train
+1317,Temple Locks,benign,train
+296,Sara from Philadelphia just saved $68 on her order.,social_proof,validation
+121,17 people have viewed this wine today,social_proof,train
+1158,Data Processor: Amobee,benign,train
+994,new merch coming soon,benign,train
+1365,Prices subject to change without notice. Products shown may not be available in our stores.,benign,train
+1056,Add your favourites to cart,benign,train
+1030,Free Shipping On Orders Over $49* - Limited Time Only,urgency,train
+169,"Someone in DOVER, United States just bought Crew 15 mins ago",social_proof,validation
+766,Payment Methods,benign,validation
+1367,Also notify me about New Arrivals!,benign,train
+752,POSTED BY @missladywoolf#motoin,benign,train
+680,All Personalised Gifts,benign,train
+1095,HURRY! ONLY 19 LEFT IN STOCK.,scarcity,train
+842,Massive Tax Time Sale See Discounts! Sale ends in,urgency,train
+588,Special sale ends in,urgency,train
+259,"By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.",benign,train
+1315,Sorry! This product is no longer available,benign,train
+1673,Brand: Ray-Ban® | Similar products from Ray-Ban®,benign,train
+441,"No thanks, free stuff isn't for me.",misedirection,validation
+1214,Only 2 Left,scarcity,train
+113,Colored Contact Lenses,benign,train
+262,"Israël in Metz, France purchased a More ADVANCED Chord Substitutions",social_proof,train
+1351,In stock | 44 left,scarcity,test
+1359,only 7 pieces left,scarcity,train
+1536,Download Now,benign,train
+1469,Beach Towels & Mats,benign,train
+619,ENDS IN - Flash Offer - TWO PAIRS OF SHOES FOR $319 PROMO CODE AUTO-APPLIED AT CHECKOUT! 0 Days : 16 Hours : 09 Minutes : 57 Seconds,urgency,train
+1496,"Hurry, limited quantities left!",scarcity,train
+230,Light Works,benign,train
+1779,"Both of these jerseys are awesome, I couldn’t have asked for better quality.",benign,test
+1117,Only 14 left!,scarcity,validation
+445,"NO THANKS, I DON'T WANT 20% OFF MY ORDER",misedirection,train
+1792,I already have this item. Do not add this to cart,misedirection,validation
+1469,Security Cameras,benign,train
+1604,Cross Body,benign,train
+1667,"-- Preeti Shenoy, author of THE RULE BREAKERS",benign,train
+1550,Royal Python Vivariums,benign,test
+833,Stone Island Junior,benign,train
+1397,ONLY 1 LEFT!,scarcity,train
+113,Sustainably made,benign,train
+1468,Bob's For Business,benign,train
+1791,"""We'd love to send you emails with offers and new products from New Balance Athletics, Inc. but if you do not wish to receive these updates, please tick this box.",misedirection,validation
+1536,Boys Green School Uniforms,benign,train
+782,Show Password,benign,train
+300,Pay Securely with Trespass,benign,validation
+1131,Limited Stock!,scarcity,train
+212,adidas Originals Stan Smith,benign,validation
+989,"LIMITED TIME - BUY THE NEW PURPLE PLUSH PILLOW, GET ONE FREE",urgency,train
+1468,Functional Marketing Cookies,benign,train
+1023,Limited Time Offers,urgency,train
+186,Someone in Bacchus Marsh bought a Noosa Basics Deodorant Stick - Sensitive (60g) 27 seconds ago,social_proof,train
+312,436 users are currently active on our website Just now,social_proof,test
+1536,Sale Coats and Jackets,benign,train
+573,Shop By Brands,benign,train
+1765,Did you know that Shaver heads need replacing every 12 - 18 months? Get the Shaver Guard cleaning spray to extend its life for up to another 6 months!,misedirection,train
+1658,ROAD CLOTHING,benign,train
+324,"No thanks, I don't want to build one.. I'd rather kick rocks!",misedirection,train
+1351,Menstrual Products,benign,test
+1564,4 SEATS LEFT,scarcity,train
+132,Someone in Keilor East bought a Piranta-Edge Skinning Knife - Blaze - Havalon Knives54 minutes ago,social_proof,train
+190,Shoes & Clothing,benign,train
+767,Imported,benign,train
+940,Will sell out fast!,scarcity,train
+116,Get it fast! 14 added to bag today,social_proof,train
+1293,Herbaceous oil rich in anti-aging polyphenols.,benign,validation
+1216,HURRY! LESS THAN 129 LEFT.,scarcity,train
+111,"Ken in Three Bridges, United States purchased All Zebrawood + Olive Ash",social_proof,train
+1090,Only 3 left in stock,scarcity,validation
+1671,We only have 5 left!,scarcity,train
+395,"Nah, I like paying full price",misedirection,validation
+224,2 people have looked at this in the last couple of hrs.,social_proof,train
+27,Real time 30 Visitor right now,social_proof,train
+527,Drawstring Backpacks,benign,test
+1197,Please note all products are made in limited quantities and we rarely restock - checkout now so you don't miss out!,scarcity,train
+327,"No thanks, I don't like getting free stuff.",misedirection,train
+154,THIS PRODUCT HAS BEEN VIEWED 480 TIMES IN THE LAST 48 HOURS,social_proof,train
+1521,HURRY! ONLY 2 LEFT!,scarcity,train
+1482,Less than 7 left!,scarcity,test
+1662,BOTTLES LEFT 3,scarcity,train
+840,Items reserved for 15:00,urgency,train
+1094,ONLY 4 LEFT!,scarcity,train
+651,-90% discount if you order within 9:55:44,urgency,train
+765,Latest looks from Myleene Klass Shop now,benign,train
+1219,Only 9 left in stock,scarcity,test
+1725,ADD FOR BETTER RESULTS,misedirection,train
+1293,Affiliate,benign,validation
+1044,Auto Delivery Program,benign,train
+1818,Save $148.98AUD – 49% Off,misedirection,validation
+1068,Low Stock – Selling Fast,scarcity,validation
+290,2 PEOPLE HAVE ADDED THIS ITEM TO THEIR CART TODAY,social_proof,train
+1120,Only 6 left,scarcity,train
+230,Pro Boost Treatments,benign,train
+1469,Baby Nursing & Feeding,benign,train
+300,4 bought in the last 24 hours.,social_proof,validation
+837,We're offline,benign,train
+268,12 customers viewed this product today!,social_proof,train
+1317,Gemstone softwares,benign,train
+527,Graphic Tanks,benign,test
+1470,LOW STOCK (ONLY 10 LEFT!),scarcity,train
+97,"JOHN in Toowoomba City, Australia purchased a Resin Tank 7 hours ago",social_proof,validation
+622,V-neck Printed Loose Short-sleeved T-shirt,benign,train
+1061,Limited Time Only · Online Only,urgency,validation
+1351,Teething Remedies,benign,test
+69,Partnerships,benign,train
+638,Accord remotes,benign,train
+20,72 Viewing This Product,social_proof,train
+790,Something went wrong. Please try again,benign,train
+907,Coloured Pencils,benign,train
+1105,Only 1 left in stock!,scarcity,validation
+1354,Only 9 units left in stock online.,scarcity,train
+1304,Feeding Nightwear,benign,train
+993,Gift Card FAQs,benign,train
+118,Someone in Canberra purchased\nADV.2 (Austracantha) about 41 minutes ago,social_proof,train
+1469,Ducted Vacuum Cleaners,benign,train
+825,Work Solid Simple Crew Neck Half Sleeve Top,benign,train
+377,"No thank you, I prefer to pay for shipping.",misedirection,train
+1536,White Plus Size Clothing,benign,train
+452,"No thanks, I don't like exclusive offers",misedirection,validation
+60,273 units sold in the last 30 days,social_proof,test
+351,"No thanks, I'll just pay full price.",misedirection,train
+365,"No, I'd rather do it the hard way...",misedirection,train
+1736,User interface customization persistent cookies are used to store a user’s preference regarding a service. Please note that these cookies are exempt from consent.,benign,test
+1779,"After getting my jersey on Monday, I am hooked on CoolHockey. I will surely be buying from CoolHockey from now on.",benign,test
+1796,Congratulations! You qualify to receive Rechargeable 10-Function Bullet Vibe for FREE!,misedirection,train
+285,Other 2 customers have it in their cart.,social_proof,train
+714,Elegant A Line Chiffon V-neck Long Sleeve Bridesmaid Dress with Pleats and Ruching,benign,validation
+1009,White Camo Windbreaker - Rock N' Roll,benign,test
+638,xB Remotes,benign,train
+212,Football Boots,benign,validation
+277,Selling fast! Add to bag 7 times in the last 48 hours.,social_proof,test
+1310,Only 2 items left,scarcity,train
+61,"Marc in Newton, United States purchasedKTM Stand Plate Large KTM...",social_proof,train
+279,"Sandeep in Hawthorne, California bought Sadie Ponte Pants - Black Just Now",social_proof,test
+1428,Lifestyle / Music,benign,train
+1083,Only 1 unit left in stock,scarcity,test
+1191,LOW IN STOCK!! GET YOURS NOW,scarcity,train
+240,"Laurie in Urraween, Queensland bought No Brainer USB Charging Anti-Theft Backpack",social_proof,train
+1429,High Arches,benign,train
+569,Contract free,benign,test
+220,"Someone in Cedarhurst, United States purchased a Sproet and Sprout Shell/Violet Stripe Bloomers",social_proof,train
+598,Your order is prioritized for 13:22 minutes!,urgency,train
+361,How Do I Rinse Off My Overnight Hair Oil Treatment?,benign,train
+1536,Black Jewelry,benign,train
+552,Cart will expire in 08:19 minutes!,urgency,train
+863,Time remaining: 04:50,urgency,train
+684,0:44:56,urgency,validation
+1315,Watches & Accessories,benign,train
+371,"No thanks, I don't like free stuff",misedirection,train
+799,DAYS HRS MINS SECS,urgency,train
+982,"Here for a limited time. 4.5"" Red Bottle Sticker w/ Adam's Logo",urgency,train
+1055,Limited time offer.,urgency,train
+1293,3 left,scarcity,validation
+129,Someone in Faizabad just bought: Pretty Love Penis Sleeve 7 inch an hour 2 minutes ago,social_proof,test
+1025,Limited Time Remaining!,urgency,train
+334,I WANT TO PAY MORE LATER ;),misedirection,validation
+1033,Limited Time Only - Up to 30% OFF Freshwater Plants! SHOP NOW >,urgency,train
+1573,Back by Demand,benign,train
+1551,"ONLY 5 LEFT, HURRY!",scarcity,train
+259,Functional Cookies,benign,train
+742,Flash Sale ends in SHOP NOW,urgency,train
+648,"Born for adventures across land, desert, and ice. Cruise over Tarmac-free roads or adapt it to be your 'do anything' commuter.",benign,validation
+230,Performance Cookies,benign,train
+837,I am very pleased with the service I received.,benign,train
+274,7 customers have this in their basket,social_proof,test
+228,"Jacob in Seymour, Wisconsin, United States purchased a Bass XL just now!",social_proof,test
+1690,Hurry! Only 9 left in stock.,scarcity,train
+1590,shop by trend,benign,train
+560,13:09:27 HOURS MINUTES SECONDS Sale Ends Once The Timer Hits Zero!,urgency,validation
+907,Delivery & support,benign,train
+803,SHOP TRIATHLON,benign,train
+1522,The product you requested is not available in the selected country,benign,train
+430,"No thanks, I don't like winning",misedirection,test
+1756,"You choose: just one box, or a  Madison Reed Membership?",misedirection,train
+1446,Baby Cross Stitch & Embroidery Patterns,benign,train
+638,HHR remotes,benign,train
+475,"No, I Don't Like Discounts",misedirection,train
+983,LIMITED TIME BLOW OUT SALE UP TO 70% OFF! 110% BEST PRICE GUARANTEE!,urgency,train
+1011,$69.50 For A Limited Time Details,urgency,train
+991,Accessibility statement,benign,train
+1465,Hurry! Only 1 Left In Stock,scarcity,train
+82,"2,221 people have purchased this item",social_proof,test
+392,"No, thanks. I'd prefer not to save.",misedirection,train
+555,SAVE $200 OFF PUFFY,urgency,train
+1158,Data Processor Privacy Policy: https://triplelift.com/privacy,benign,train
+289,"Tambria in Hattiesburg just bought Peruvian Virgin Natural Wave Hair 3 Bundles with Lace Frontal, 100% Human Virgin Hair",social_proof,train
+1196,1 item left,scarcity,train
+1801,Order without free membership $69.95,misedirection,test
+1451,"This product can expose you to chemicals including Hexavalent which is known to the State of California to cause cancer on birth defects or other reproductive harm. For more information, visit",benign,validation
+251,"Someone in Vancouver, Washington purchased a Orthofeet Men's Orthotic Insoles about 38 minutes",social_proof,train
+1491,Only 5 left!,scarcity,train
+907,Brushes,benign,train
+74,"Rose in Portland, United States purchased Green Eco-Friendly iPhone XR Case about 54 minutes ago",social_proof,train
+1158,Data Processor Privacy Policy: https://casalemedia.com/,benign,train
+385,"No thanks, I'll still want to pay full price",misedirection,test
+1255,Only 3 Left in Stock!,scarcity,train
+1026,Limited time - final price reflects extra 29% off,urgency,train
+1687,Hurry! Only 6 left in stock.,scarcity,train
+300,We value your privacy We use cookies to improve your website experience. We also use third-party cookies for marketing purposes. Learn more.,benign,validation
+1316,Unstitched Fabric,benign,test
+113,Polar Lights II,benign,train
+414,Shop by Health Goals,benign,train
+411,"No thanks, I'm not interested",misedirection,validation
+1705,Customer also shopped for,misedirection,train
+1429,Shop Safely And Securely,benign,train
+1158,powered by: Cookie Information,benign,train
+1590,Free Shipping & Easy Returns always!,benign,train
+1428,Combination,benign,train
+390,"No Thanks, I Don't Want To Save",misedirection,train
+1552,QUANTITY: *ONLY 1 LEFT,scarcity,train
+273,6 customers have this in their basket,social_proof,train
+108,GCC Compliance,benign,validation
+247,Please try again,benign,train
+568,How Do Our Crystals Looks in Real Life?,benign,test
+408,"No thanks, I want to pay full price",misedirection,train
+976,commonpandacom@commonpandacom,benign,train
+434,"Yes, I Want To Save Money!No Thanks",misedirection,train
+716,OFFER ENDS IN: 00:32:04 TIME IS RUNNING OUT!,urgency,train
+1360,Only 4 left in this size!,scarcity,train
+1293,You might also like,benign,validation
+158,Shop By Fabric,benign,train
+196,Chirag in Anoopshahr just got the JAYS - a-JAYS One+ about 17 minutes ago,social_proof,train
+907,View all Ink categories,benign,train
+350,Intercoastal Performance Pant - True Navy,benign,train
+405,"NO THANKS, I DON’T WANT 15% OFF",misedirection,train
+1469,Bike Parts & Components,benign,train
+217,🔥👁️ 1 person is viewing this.,social_proof,train
+66,Estimated VAT overview,benign,train
+1451,"Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.",benign,validation
+1469,Hand & Foot Skin Care,benign,train
+1469,Best Deals of the Month: April Edition,benign,train
+1682,Hurry up! Only 4 left in stock,scarcity,train
+158,Accent Chairs,benign,train
+471,"No thanks, I don't like to save",misedirection,train
+782,Subscribe To Us Subscribe,benign,train
+1738,Customers also bought,misedirection,train
+233,407 customers have viewed this item recently,social_proof,train
+1625,Only 1 item(s) left in stock,scarcity,train
+1317,Kyanite Beads,benign,train
+370,"No, I don't want great deals.",misedirection,train
+1313,I have a strong liking to walnut. Even the sapwood can look very presentable when finished good. Thus cutting board is a great item for use and conversation and looks good.,benign,train
+833,Holland Cooper,benign,train
+803,Recovery Best Sellers,benign,train
+198,Viewed 1040 times in the last 7 days,social_proof,train
+861,U.S. Vape Mail Ban FAQs,benign,train
+1272,異業合作 Cooperation,benign,train
+184,6 people have looked at this in the last few hrs.,social_proof,train
+1728,Limited-time Offer: Bundle a base and get 20% off,misedirection,train
+1536,Sale Womens Clothing,benign,train
+1815,Why I chose this:,benign,train
+1811,TWO FREE PILLOWS AND 30% OFF WITH PROMO CODE,misedirection,train
+203,View Alternatives,benign,train
+491,11 11 Hours: 00 22 Minutes: 3223 3223 Seconds Sale Ends Once The Timer Hits Zero!,urgency,train
+886,"Security is our top priority. Our subscription payments are powered by Stripe and ReCharge, processed in a secure PCI-compliant environment to the highest industry standards. Ketolent staff never know your credit card number.",benign,test
+44,"Jim in Houston, USA purchased Pure Ratios: Hemp Oil CBD Patch (40mg CBD)",social_proof,test
+1621,Only 22 left in stock!,scarcity,train
+1710,ADD WORLD'S MOST COMFORTABLE CHAIRS,misedirection,validation
+1344,ONLY 3 LEFT IN STOCK!,scarcity,train
+976,Watch how its done,benign,train
+907,View all Oil & Acrylic Brushes categories,benign,train
+414,Get Personalised Health PlanGet Health Plan,benign,train
+201,Someone in Louisville Kentucky United States Purchased Gold Presidential Bracelet With Watch Buckle 9 hours ago,social_proof,train
+1167,LESS THAN 5 LEFT!,scarcity,train
+1759,[new-troh-pick],benign,validation
+4,"ADHD Friendly Profile: this profile significantly reduces distractions and noise to help people with ADHD, and Neurodevelopmental disorders browse, read, and focus on the essential elements more easily.",benign,validation
+209,Long and Tall,benign,validation
+1815,This offer is only VALID if you add to cart now!,misedirection,train
+133,"Sign up for the latest updates, products and offers",benign,train
+573,"Subscribing means you agree to receive our emails, more details please refer to ourprivacy policy.",benign,train
+984,Shop Sale by Print,benign,test
+985,"Flash Sale Alert! You can now buy Utorch Corridor Porch Aisle Lights from Gearbest.com for only $7.99 (47% off). Hurry up, limited time offer!",urgency,validation
+1381,Only 9 left,scarcity,train
+966,"Our items sell fast, don't miss out!",scarcity,train
+815,Your order has been reserved for,urgency,train
+980,Sale ends soon,urgency,train
+1475,only 5 left in stock,scarcity,train
+253,135 people have this in their cart,social_proof,train
+1139,The Hoop Destination. Discover more,benign,train
+1343,Tight Bud,benign,train
+138,6 other people looking at this item,social_proof,train
+1646,selected language日本語currencyJPY,benign,train
+919,Great choice!,benign,validation
+1092,Only 1 items left,scarcity,train
+1741,Would you like to purchase an Extended Protection Plan?,misedirection,validation
+1685,ONLY 14 LEFT AT THIS PRICE,scarcity,train
+993,Not sold separately,benign,train
+88,16 recently purchased it.,social_proof,train
+1536,Plus Size Ripped Jeans,benign,train
+1083,Redirecting to Futech Deals for secure checkout...,benign,test
+209,Football,benign,validation
+1604,All Men's Brands,benign,train
+128,*Freight/Higher Freight charges may apply to some areas. Click here to view Shipping Policy,benign,train
+1304,Long Sleeves Nightwear,benign,train
+2,"Faith in Glendale, United States purchased a Choose Your Flavors 5 Bag Sample Pack (Whole Bean) about 1 hour ago",social_proof,train
+527,Hairy Chest T-Shirt And Shorts Combo,benign,test
+230,Covered all grays,benign,train
+190,7 sold in the last 48 hours,social_proof,train
+108,Menthol Flavors,benign,validation
+113,"Someone in Alexandria, United States just bought TTDeye Queen Green Colored Contact Lenses",social_proof,train
+593,FLASH 19:15:22,urgency,train
+996,"Only available for a LIMITED TIME, so get yours TODAY!",urgency,validation
+1476,2 in stock,scarcity,train
+1459,Oxfords & Loafers,benign,train
+1080,Only 9 items left!,scarcity,validation
+822,Reloading & Ammunition,benign,train
+26,Someone purchased a FORWARD REVIVE WOMEN'S RED WHITE HUSTLE T-SHIRT 32 minutes ago,social_proof,train
+185,"Joe M from , Bought a Cartoon Caterpillar Rigged 3D Model Recently",social_proof,validation
+23,"Annie in Cheras, Malaysia just bought: An Abundance of Flowers - Van-Go Paint-By-Number Kit",social_proof,train
+212,Read More,benign,validation
+977,Selling Fast,scarcity,validation
+388,"NO THANKS, I'D RATHER PAY FULL PRICE",misedirection,train
+1026,Stone Cold Steve Austin,benign,train
+247,92 customers bought this in the last 48 hours,social_proof,train
+933,"An item you ordered is in high demand. No worries, we have reserved your order.",scarcity,test
+1466,Click and Collect T&C,benign,train
+311,Someone added 1pc 4ocean natural stone beads beaded bracelet men boho handmade to their cart RIGHT NOW,social_proof,test
+1062,LIMITED TIME ONLY 10 OFF 50 SPEND NEW CUSTOMERS ONLY - TERMS & CONDITIONS APPLY,urgency,train
+1343,Different Types of Gold,benign,train
+1697,HURRY! ONLY 14 LEFT IN STOCK.,scarcity,train
+919,The best!,benign,validation
+1200,"HURRY, THERE ARE ONLY 9 ITEM(S) LEFT!",scarcity,train
+216,Tracksuit,benign,validation
+50,Trending Style! Sold 4 times today,social_proof,validation
+573,Long African American Wigs,benign,train
+1529,Only one left in stock - order soon!,scarcity,train
+1525,"Hurry, only 1 left in stock!",scarcity,validation
+226,Trending now! Added to basket 490 times today,social_proof,train
+1536,Almost Famous Jeans,benign,train
+367,"No Thanks, I Don't Like Saving Money.",misedirection,validation
+1730,Professional Color Tool Kit / Addons,misedirection,train
+1149,Tweet Share Pin It Add Email,benign,test
+1459,Tights,benign,train
+1275,Only 5 left,scarcity,test
+1648,Wireless Microphone,benign,train
+1088,Only 15 left in stock,scarcity,validation
+1108,Limited Quantity,scarcity,validation
+573,Cap Construction,benign,train
+837,Need Help Finding The Right Product?,benign,train
+1304,Body Washes,benign,train
+1367,ONLY 2 LEFT,scarcity,train
+77,"Matthew in Charleston, South Carolina just purchased The Puffy Lux Mattress",social_proof,test
+1215,LIVE REMAINING STOCK,scarcity,train
+767,Brand: NFL Pro Line by Fanatics Branded,benign,train
+104,339 users are currently active on our website,social_proof,train
+595,Please Order Within: 0 0 : 0 2 : 4 1 : 10 65,urgency,train
+1536,Baby Boy Jumpsuits and Rompers,benign,train
+378,"Nah, I'll pay full price",misedirection,train
+230,"Like many websites, we share certain information, such as your IP address, device ID or similar online identifier, with certain third parties, such as social networks and advertising networks. This information is used to personalize advertising you see after you’ve visited our website. The California Consumer Privacy Act (“CCPA”) considers our sharing of that information in this manner to be a “sale.”For more information about the First and Third Party Cookies used please follow this link.",benign,train
+203,Choose which store you would like to visit,benign,train
+460,"No Thanks, I like paying full price.",misedirection,train
+102,Popular Item! 🔥 16 people are viewing this and 18 recently purchased it.,social_proof,test
+210,"Ida in Tangerang Selatan, Indonesia purchased Iseya VG10 G-Series 33 layer Damascus Japanese Chef's Santoku Knife , 180mm about 1 hour ago",social_proof,test
+1169,3 items left,scarcity,train
+1208,ONLY 52 items left in stock!,scarcity,train
+1304,Cracked Nipples,benign,train
+1075,Only 2 left in stock,scarcity,train
+69,Fave x GrabPay,benign,train
+348,"No thanks, I'll pay full price!",misedirection,train
+1630,Only 4 left In Stock,scarcity,train
+1736,Flex Mount,benign,test
+265,"2,229 people have viewed this item",social_proof,train
+221,Someone in Castle Hill bought a Philips Essential LED Downlight Kit | 5W 4000K few hours ago.,social_proof,validation
+1702,FOR THE ULTIMATE EXPERIENCE: (Can select more than one),misedirection,train
+247,Related Categories,benign,train
+1333,from France,benign,test
+177,308 viewed per day,social_proof,train
+246,Mom & Baby,benign,train
+182,This is in 5 other carts.,social_proof,train
+1036,STOCK IS GUARANTEED FOR 60 MINUTES,urgency,train
+1067,Please add products to see your site in action,benign,train
+822,BSA FAC Air Rifles,benign,train
+1127,Only 2 units left!,scarcity,test
+1653,style to command,benign,train
+1181,Only 5 left in stock,scarcity,train
+1003,LIMITED TIME: FREE SHIPPING LOWERED TO ORDERS OVER $69.95!,urgency,train
+767,sweatshirts,benign,train
+1019,On Sale! Limited Time Offer!,urgency,validation
+100,"Sierra in Cypress, California bought Beauty In All Dress, Dusty Blue about 46 minutes ago",social_proof,train
+622,Ladies Flower Print Casual Fashion Dress,benign,train
+1793,"If you click continue below we will be happy to tell you about discounts, money off and new products from Very by e-mail and text,
+unless you tell us you DO NOT want to hear about them, by ticking here.
+If you would like to receive offers from carefully selected 3rd parties, please tick here",misedirection,train
+1469,Bath Bombs & Salts,benign,train
+133,Wall art,benign,train
+1459,Bath Decor,benign,train
+5,Free Shipping,benign,train
+1466,Household,benign,train
+951,"An item you ordered is in high demand. No worries, we have prioritized your order.",scarcity,test
+659,60% OFF ENDS IN DAYS HOURS MINUTES SECONDS,urgency,test
+1009,Keep up with crankbrothers,benign,test
+714,Casual Sheath Chiffon Sequins Straps V-neck Sleeveless Bridesmaid Dress,benign,validation
+479,"No thanks, I don't like savings",misedirection,train
+264,We use cookies to give you the best experience possible. No personal information is stored. Using this website means that you are ok with this cookie policy.,benign,train
+33,218 people have added this item to cart,social_proof,train
+1448,QUICK! ONLY 1 LEFT IN STOCK,scarcity,train
+1212,Only 1 Left !,scarcity,train
+1489,"Port, Sherry & Sweet Wine",benign,train
+383,"No thanks, I prefer to pay more for shoes!",misedirection,train
+1451,Engine Cooling System,benign,validation
+1254,ONLY 5 LEFT,scarcity,test
+1158,How/why the homepage uses cookies,benign,train
+247,mens long sleeve organic shirt,benign,train
+1590,These cookies are usually set by our marketing and advertising partners. They may be used by them to build a profile of your interest and later show you relevant ads. If you do not allow these cookies you will not experience targeted ads for your interests.,benign,train
+1060,20% OFF VALENTINE\u2019S DAY FAVOURITES * | LIMITED TIME ONLY,urgency,train
+1196,EDC-V Megalodon Bottle Opener - Brass (Exclusive),benign,train
+1107,Availability: Low in stock today,scarcity,test
+1736,NO THANKS,misedirection,test
+713,Motocross Gloves,benign,test
+85,Popular item! 🔥 27 people recently purchased this.,social_proof,train
+66,All consumers in the EU are charged VAT on the purchase of goods and services.,benign,train
+103,105 pawrents are buying for their furkids now!,social_proof,train
+1798,Compare at,misedirection,test
+1155,*Only 2 left in stock. Don't miss out!,scarcity,train
+1317,No reviews yet Write a review,benign,train
+782,Continue with Facebook Continue with Google,benign,train
+787,TERMS OF SALE,benign,train
+349,"NO THANKS, I DON'T WANT TO SAVE MONEY",misedirection,train
+787,Back Yard & Spa,benign,train
+1403,Low Stock! Only 3 left.,scarcity,test
+1736,PopGrip Antimicrobial Refine by Product Type: PopGrip Antimicrobial,benign,test
+814,Customer Support,benign,validation
+1047,25% OFF SELECTED JACKETS Limited Time,urgency,validation
+67,117 people have viewed this item in the last 7 days.,social_proof,validation
+305,41 people have looked at this in the last couple of hours,social_proof,train
+1440,Only 1 left in stock! Order soon!,scarcity,validation
+822,New Rifles,benign,train
+1007,Limited Time Promo $194.00,urgency,train
+822,Nightforce New Year Clearance,benign,train
+1313,Custom Board Quote,benign,train
+1328,Charity Collection,benign,train
+170,James from Colonia purchased a,social_proof,train
+1814,$132.90 $99.00,misedirection,validation
+350,Graphic T-Shirts,benign,train
+534,Landofcoder can power almost ANY marketplace you think of,benign,test
+353,I always order from them! Such good quality for the price you pay! Will always be back!,benign,train
+230,I have not had my hair so soft and shiny in such a long time and my grey was completely covered! So incredibly happy.,benign,train
+688,Excellent service all round,benign,train
+216,View all,benign,validation
+1272,韓國香氛 Cosmic Mansion,benign,train
+1304,Nighty For Honeymoon,benign,train
+1282,"HURRY, ONLY 1 LEFT!",scarcity,train
+664,Shop All Vape Kits,benign,train
+212,Shoe Care,benign,validation
+482,"No thanks, I don't want to save up to 75%",misedirection,train
+101,"Tristan in Markham, Canada purchased a Dragon Baseball Jersey",social_proof,test
+1343,THE SET INCLUDES:,benign,train
+1405,Short,benign,train
+1602,7 left in stock,scarcity,train
+254,Add to Wish List(13 People Have Added),social_proof,train
+1536,Womens Plaid Clothing,benign,train
+1446,Embossing Powder,benign,train
+372,"No thanks, I want to pay the full price.",misedirection,test
+1274,Only 1 item left!,scarcity,validation
+70,"Mounif in Pittsburgh, United States purchased",social_proof,train
+826,Your order is reserved for 09:43 minutes!,urgency,train
+1343,Platinum-Dipped Rose,benign,train
+1492,5 LEFT,scarcity,train
+338,"No thanks, I prefer to pay full price.",misedirection,train
+1065,"Rs 4,013 (Retail Discount) + Rs 2,997 (Limited Time Coupon)",urgency,test
+622,Fashion Short Sleeve Crew Neck Print Dress,benign,train
+1086,We have 1 left in stock,scarcity,train
+150,12 recently purchased it.,social_proof,train
+680,Wife,benign,train
+1784,"By signing up via text, you agree to receive recurring automated promotional and personalized marketing text messages from SPANX®. Msg & data rates apply. View Terms of Use & Privacy Policy.",benign,train
+512,0 DAYS22 HOURS13 MINUTES21 SECONDS,urgency,train
+1044,Articles: Medical Matters,benign,train
+1371,"Only 5 left , In Stock",scarcity,validation
+7,Jamie from Eloy United States purchased a CBD Oil Vape Additives 4 Pack About 7 hours ago,social_proof,test
+219,251 people are viewing this right now,social_proof,test
+833,All Girls Clothing,benign,train
+1026,Join the Team,benign,train
+1083,Vintage Fancy Red Bracelet Watch Women's,benign,test
+1534,HURRY ONLY 1 ITEM LEFT!,scarcity,test
+568,What Are Healing Crystals?,benign,test
+49,404 Orders,social_proof,train
+1550,Carpet Python Vivariums,benign,test
+483,"50% OFF Everything (yep, even sale) + $5.99 Shipping* ENDS IN 12h 13m 56s",urgency,train
+45,"Tyler in Norwalk, United States purchased a",social_proof,validation
+244,Someone in Pittsworth bought a Ultimate COLT Anal Training Kit 2 hours ago,social_proof,test
+205,#6 Bestseller in Rugs This item was viewed 92 times in the last day.,social_proof,train
+310,"Someone in Shelby twp, United States just bought Galaxy Note 8 10000mAh ZeroShock Battery Case 3 days ago",social_proof,test
+350,Charleston,benign,train
+776,Power Button Covers,benign,test
+1342,(Only 1 left!),scarcity,train
+217,Discreet packaging,benign,train
+1333,Last one available,scarcity,test
+822,Mens Footwear,benign,train
+1759,Upcoming Events,benign,validation
+638,Beetle Remotes,benign,train
+1330,Free People,benign,test
+241,"Carol in St. Louis, Missouri bought Original USB Charging Anti-Theft Backpack",social_proof,validation
+1071,ONLY 4 LEFT IN STOCK,scarcity,train
+149,Shop All Golf Balls,benign,train
+1536,Sunglasses and Eyewear,benign,train
+803,Gut Health,benign,train
+822,"Dog Collars, Leads & Tethers",benign,train
+1373,Naked Wolfe,benign,train
+1707,How about these?,misedirection,train
+1091,Only 14 left in stock,scarcity,train
+1759,Optimized Patch System,benign,validation
+1293,Product Tagline,benign,validation
+1241,Anniversary Gifts,benign,validation
+345,"No, thanks, I´d rather pay more",misedirection,train
+144,"Someone in Culgoa, Australia purchased Savelli Epic Mens Comfortable Leather Lace Up Boots Made In Brazil",social_proof,train
+1560,1 Left,scarcity,train
+448,I don't want a discount,misedirection,validation
+1149,Healthy Diet,benign,test
+317,"No, thanks. I don't like great deals.",misedirection,train
+53,"Someone in Paris, France just purchased a Kanpeki Knife Set",social_proof,train
+1026,WWE New Arrivals,benign,train
+1759,"Alpha BRAIN® is a dietary supplement that helps support cognitive functions, including memory, mental speed, and focus.†",benign,validation
+46,"Someone in Ampang, Malaysia just bought",social_proof,train
+271,"Trey in Columbia, United States purchased Leather Cord Capsule",social_proof,test
+1803,"THE COMPETITION $1,299.99",misedirection,train
+1503,ONLY 5 LEFT!,scarcity,train
+1658,Hurry Low Stock,scarcity,train
+715,Items will be reserved in your cart for 19:10,urgency,test
+246,1 people are viewing this currently,social_proof,train
+319,"No thanks, I’ll skip this amazing super-saver deal. I don’t need so many beautiful textures",misedirection,train
+907,SAA Oil & Acrylic Brushes,benign,train
+1291,"1 left, order now!",scarcity,train
+825,Vacation One Shoulder Loosen Long Sleeve Woven Dress,benign,train
+1428,Lip Balms & Treatments,benign,train
+864,Price Guaranteed For DAYS/HRS/MINS/SECS,urgency,train
+1051,Other Applications,benign,test
+406,"No thanks, I don’t want to save",misedirection,train
+662,High Gable Sheds,benign,validation
+861,Wondering where to buy White Cloud products in the U.S.? Our distributor list is growing! Bookmark our list and stay tuned!,benign,train
+188,Products,benign,train
+1469,Dressmakers Mannequins,benign,train
+725,Wait! YOUR CART QUALIFIES FOR 15% OFF YOUR ENTIRE ORDER. Offer Expires in: 2955,urgency,train
+431,"No thanks, I will pay full price.",misedirection,train
+680,Air Purifying Plants,benign,train
+1536,All Little Boys Clothing,benign,train
+4,Our Story,benign,validation
+1596,2 left,scarcity,train
+1488,History Of The NRA,benign,train
+708,25% OFF* ENDS IN 00 : 12 : 27 : 15 DAYS HRS. MIN. SEC.,urgency,test
+133,Start SellingSearchWishlistAccountCartCart,benign,train
+30,61 people have already bought that product today with 50% discount,social_proof,train
+155,89 currently viewing,social_proof,train
+754,Used Leica Cameras,benign,train
+183,Purchased 8 times in the last few days.,social_proof,train
+123,"Jonathan in Syracuse, United States just bought Electric Skateboard Battery Pack 36V 10S2P 4 hours ago",social_proof,train
+1658,View All Bearings,benign,train
+1101,Low in stock: only 1 left.,scarcity,train
+1241,American Diamond Earrings,benign,validation
+300,cm in,benign,validation
+1715,Personalize your doll,misedirection,validation
+1158,sales@scandinavianoutdoor.com,benign,train
+216,Searching...,benign,validation
+1260,Flat Iron,benign,train
+5,You can feel confident that your new box each month is helping you celebrate pregnancy and protect your bump!,benign,train
+1606,Availability: 5 items left,scarcity,validation
+306,"Someone from Osijek, Croatia just bought TMC CP Style Single Pistol Pouch",social_proof,train
+907,View product View SAA Standard Membership Renewal - Credit/Debit Card - One Year Only,benign,train
+1509,The World Fair Trade Organization Label guarantees that People Tree follows Fair Trade best practices in our organisation.,benign,train
+25,Packed with Super Citrimax,benign,train
+394,"No thanks, I don't want to look my best",misedirection,test
+1468,"Check your orders, in-store quotes & more",benign,train
+1550,Thermostats,benign,test
+350,"Want more inspiration and styling tips? Dive into The Southern Edit, Southern Tide’s lifestyle blog, and follow us on social media.",benign,train
+1367,The Wizard of Oz,benign,train
+1463,"ONLY 5 LEFT, ORDER SOON!",scarcity,train
+198,Prices shown for delivery to JAPAN Change delivery country,benign,train
+833,Barbour International,benign,train
+1100,70% offers claimed. Hurry up!,scarcity,validation
+1187,Only 1 Left!,scarcity,train
+638,M-Class Remotes,benign,train
+954,"Sorry, this is out of stock. You just missed it.",scarcity,test
+580,Your order is reserved for 19:57 minutes.,urgency,train
+822,Clearance Optic Accessories Deals,benign,train
+1363,Hurry! Limited Quantity Available.,scarcity,train
+1797,I wish to Start Shopping but I don't want to receive daily email alerts about your amazing discounts on luxury brands.,misedirection,train
+81,"Jessica in Orange, United States purchased a Black 1920s Sequin Maxi Flapper Dress 12 minutes ago",social_proof,train
+1638,3 Left!,scarcity,train
+1009,Highline Double Wheel Bag,benign,test
+1349,Only 5 Left,scarcity,test
+1154,Only 1 left in stock - Order soon,scarcity,train
+1220,Only 1 left.,scarcity,test
+680,Soft Toys,benign,train
+960,"ONCE IT'S GONE, IT'S GONE",scarcity,validation
+66,Lease to Own conditions,benign,train
+1018,Full HD 144Hz IPS Anti-Glare (1920 x 1080) FREE Upgrade (Limited time offer!),urgency,train
+546,EXTRA -30% OFF WITH CODE: EXTRA30 Ends in: 0 0 0 0 days 0 0 4 4 hours . 0 0 9 9 min . 2 2 8 8 sec,urgency,train
+714,Elegant A Line Short Sleeve Satin Bateau Floor-length Mother of the Bride Dress with Ribbon,benign,validation
+991,Tidal Waves Collection,benign,train
+260,POPULAR 62 others checked this out in the last few hours.,social_proof,train
+1466,Trowels & Putty Knife,benign,train
+1139,Gifts By Price,benign,train
+447,"No thanks! I'd rather join the """"Pay Full Price for Things"""" club.",misedirection,train
+1736,PopWallet+ Refine by Product Type: PopWallet+,benign,test
+767,FootwearHome & Office,benign,train
+841,Get 20% off Sample Doors! ×Offer Ends In 58 : 29 Use Promo Code sample20off,urgency,train
+1693,HURRY! ONLY 11 LEFT IN STOCK.,scarcity,train
+200,Hurry up! 22 people other than you have this product in their cart,social_proof,test
+1590,family,benign,train
+573,Kinky Curly Wigs,benign,train
+117,Devices,benign,train
+1351,Digital Device Covers,benign,test
+1536,Pleated Skirts,benign,train
+1667,beautifully written prose,benign,train
+690,4 days 05:46:20,urgency,train
+247,Corporate Responsibility Report,benign,train
+1272,手錶 / Watches,benign,train
+1134,Only 69 left!,scarcity,test
+297,52 people have added this product to bag in the last 72 hours,social_proof,train
+211,156 sold in last 24 hours,social_proof,test
+638,BROKEN REMOTE? FIX IT YOURSELF AND SAVE HUGE,benign,train
+707,Offer ends 0Hours:04Minutes:46Seconds,urgency,train
+306,COMBAT GEARHot,benign,train
+32,"1,446 people have viewed this item",social_proof,test
+763,Order in 14:53 to get 2 pillows for free,urgency,train
+1153,HURRY ONLY 9 LEFT IN STOCK!,scarcity,train
+1266,only 1 in stock,scarcity,validation
+1536,Grey Jewelry,benign,train
+25,Select shake flavor:,benign,train
+1002,ON SALE AT $1.99 FOR A LIMITED TIME,urgency,test
+1009,Submitted by Fermin Larracilla Pérez,benign,test
+353,Polycarbonate,benign,train
+246,Browse by A-Z,benign,train
+1351,Other Snacks,benign,test
+1365,Less than 6 items left,scarcity,train
+14,"Ken in Oakland, United States purchased a Dreamville Hoodie a month ago",social_proof,train
+149,Other Promotions,benign,train
+1026,Recommended,benign,train
+93,17 people have added this item to cart,social_proof,train
+1044,Free Shipping. Limited Time Only. for orders over $50,urgency,train
+790,Set SALE Into Summer,benign,train
+1197,IZZY MIDI DRESS Ivory,benign,train
+1736,Gold Refine by Color: Gold,benign,test
+1381,View All Homeware,benign,train
+1053,Site Wide Savings for the Entire Family! Pricing is off Rogan's Shoes every day Low Prices! Prices are already reflected on the site. Limited time only! Restrictions apply. Online Only.,urgency,test
+581,00 DAYS 00 HOURS 29 MINUTES 26 SECONDS,urgency,train
+984,Explore more styles from this printspiration,benign,test
+1517,Hurry! Only 2 Left,scarcity,train
+1194,1 LEFT IN THIS SIZE,scarcity,validation
+1660,"Hurry, only 6 left in stock!",scarcity,train
+1469,"Sponges, Mitts & Bath Brushes",benign,train
+1317,Crystal Lotus Sriyantras,benign,train
+380,No thanks. I don’t want to save money.,misedirection,validation
+747,Other CollectiblesPhotos,benign,train
+530,Need a Hand?,benign,test
+1678,Hurry !! Only 52 left in stock,scarcity,test
+1333,lego harry potter,benign,test
+776,Most of our orders are from repeat customers.,benign,test
+667,New In Bottoms,benign,train
+1735,Want to add one of these?,misedirection,validation
+713,Base Layer & Thermals,benign,test
+1722,FANSTASTIC DEALS,misedirection,train
+52,"Alyssa in San Antonio, United States purchased a iTunes Japan Gift Card 10000 JPY about 35 minutes ago",social_proof,validation
+1667,'Keeper of Lost Things',benign,train
+1737,GlassGuard Warranty Do not fear breaking your glass! Add our GlassGuard warranty policy for just $3.85 and we'll insure this purchase.,misedirection,test
+1304,Hair Care Remedies,benign,train
+1385,In Stock (8) Left,scarcity,validation
+919,Paul Henry,benign,validation
+767,Cincinnati Bengals T-Shirts,benign,train
+803,Compare Products,benign,train
+714,Sexy A Line Short Sleeve Sequins Off-the-shoulder Floor-length Mother of the Bride Dress with Split Front,benign,validation
+907,"Fancy some creative inspiration, news and offers? Sign up for SAA enewsletters today.",benign,train
+212,Sports Bras,benign,validation
+243,Purchased 100+ times in the last few days.,social_proof,validation
+991,Accessibly App features,benign,train
+822,Scarves & Snoods,benign,train
+624,Your cart is reserved for 14:05 minutes!,urgency,test
+350,OH SHIP! Looks like that page wasn't found,benign,train
+1584,Only a few left!,scarcity,validation
+1594,In Stock Only 5 left!,scarcity,train
+1550,Exotic Bird Food,benign,test
+1010,Limited Time,urgency,train
+970,AN ITEM IN YOUR CART IS SELLING OUT QUICKLY,scarcity,train
+1469,iPhones,benign,train
+191,Either because we're updating the site or because someone spilled coffee on it again. We'll be back just as soon as we finish the update or clean up the coffee.,benign,train
+1241,Hurry Up! Only 1 Piece Left,scarcity,validation
+979,LIMITED OFFER: $125 Off + 2 Free Pillows,urgency,train
+1788,Want Free Shipping?,misedirection,train
+622,Summer Simple Breathable Socks,benign,train
+1618,Sellout risk:,scarcity,train
+402,"No thanks, I don’t like saving money.",misedirection,train
+4,Value of Product,benign,validation
+537,00DAYS07HOURS09MINUTES39SECONDS,urgency,train
+299,Someone from purchased a HOLEES Original Ladies II - Navy About 9 hours ago,social_proof,train
+907,Mountboard,benign,train
+1343,Graduations,benign,train
+117,Light powerful.,benign,train
+1402,Availability: Low Stock 4 Remaining,scarcity,test
+957,Items in your cart are in high demand. But we have reserved your order.,scarcity,train
+264,Viewed 744 times today,social_proof,train
+1532,Only 2 Left in Stock,scarcity,train
+287,1044 sold in past 12 months,social_proof,train
+1536,Cropped Jeans,benign,train
+47,64 users bought this product Touch: The Set - Touch XL & TouchUp Makeup Mirror Bundle,social_proof,train
+222,"Someone in Joliet, Illinois purchased a Yocan Evolve Plus XL Vaporizer",social_proof,train
+1488,Jeanne E. Bray Memorial Scholarship,benign,train
+117,"Samuel in Minneapolis, United States purchased a Pod Juice Jewel Mint Cool ❄️Nicotine Salt e-Liquid 15/30ml 7 hours ago",social_proof,train
+991,Boardshorts,benign,train
+837,"The site was easy to navigate. I haven't received my shoes yet, but overall a good experience.",benign,train
+198,Cheaney,benign,train
+4,≡ Filter Reviews Clicking on the following button will update the content below,benign,validation
+1044,Arthritis Aids,benign,train
+822,Camo Shirts & T Shirts,benign,train
+963,SELLING FAST! GET 10% OFF THIS ITEM. ACTIVATE NOW.,scarcity,train
+1330,TRE by Natalie Ratabesi,benign,test
+1057,LIMITED TIME OFFER,urgency,train
+1658,"Sign Up To Our Newsletter To Receive News, Offers And Promotions.",benign,train
+29,"Someone from Cape Town, Western Cape, South Africa just started buying Packable Travel Duffel Bag! 5 minutes ago",social_proof,train
+747,Offer ends in 9hrs 55min 29sec!,urgency,train
+1001,(LIMITED TIME OFFER) TORSION GUN HOLSTER SUPER COMBO,urgency,validation
+1056,Sale By Category,benign,train
+1446,Floral Cross Stitch & Embroidery Kits,benign,train
+920,Your AccountTrack Your OrdersJoin Celebrations Passport,benign,train
+822,Dog Whistles & Lanyards,benign,train
+1201,Hurry! Only 1 left in stock,scarcity,train
+176,1 people bought Jotter To Do Refill in the last few hours,social_proof,train
+158,Other people want this. 10 people have this in their cart right now.,social_proof,train
+1654,Terms of Use Privacy Policy Do Not Sell My Personal Information Request My Personal Information,benign,train
+1304,Colors,benign,train
+833,Manage Consent Preferences,benign,train
+680,Select Occasion close,benign,train
+115,1 person is looking at this item.,social_proof,train
+997,LIMITED TIME OFFER! FREE SHIPPING OVER $99 + FREE RETURNS*,urgency,validation
+295,994 items sold this hour.,social_proof,train
+1381,View All New Arrivals,benign,train
+861,How White Cloud Prevents E-Cig Sales to Minors Read More ➞,benign,train
+282,"Someone in Petaling Jaya, Malaysia just bought SNEAKERGUARD Midsole Paint Marker - BOOST White",social_proof,train
+1302,Availability: Low Stock,scarcity,test
+1366,Low Stock,scarcity,validation
+825,Influencer Program,benign,train
+527,View All Apartment,benign,test
+1211,72% offers claimed. Hurry up!,scarcity,train
+1556,(Only 1 Left),scarcity,train
+238,Someone in Red Cliffs bought a RHK Yamaha YZ/YZF/WRF 99-16 Blue Pursuit Footpegs 3 minutes ago,social_proof,test
+1358,limited availability at this price!,scarcity,test
+861,WilmaNorth Carolina,benign,train
+1315,TV & Home Appliances,benign,train
+570,"Save 25% on your entire order 09 Hours 57 Minutes 34Seconds use code: SPRING25""",urgency,train
+573,"Wigsbuy- Online Beauty Store of Fashion Wigs, Hair Extensions & Accessories for Sale.",benign,train
+837,Quick Navigation,benign,train
+667,CHF,benign,train
+833,+ Performance Cookies,benign,train
+356,No I don't feel lucky,misedirection,train
+667,Ericdress Summer Patchwork Polyester Long Women's Tank Top,benign,train
+1026,More Sports,benign,train
+1056,Bento Lunch Boxes & Food Containers,benign,train
+1759,Clinical Studies,benign,validation
+1009,Accessories Collection,benign,test
+1483,3 LEFT,scarcity,train
+527,Electric Daisy,benign,test
+664,VUSE Alto Menthol Pods,benign,train
+1207,Hurry! Only 2 left at this price!,scarcity,validation
+986,Limited Time Offer,urgency,train
+476,"NO THANKS, I DON'T LIKE FREE STUFF",misedirection,train
+1317,Crystal Beads,benign,train
+304,Last purchased at 11:19am today.,social_proof,train
+28,9 sold in last 4 hours,social_proof,test
+1106,Less than 10 left in stock,scarcity,train
+568,· Physical Healing,benign,test
+1536,WAX Jeans,benign,train
+188,Sold out,benign,train
+1458,Only 1 piece left.,scarcity,train
+329,"No thanks, I don't like good deals.",misedirection,train
+1546,Only 5 pcs left!,scarcity,train
+693,Complete your purchase within the next 12:18 minutes and receive 10% off,urgency,train
+984,All Clothing,benign,test
+1536,Rose Gold Shoes,benign,train
+42,33 sold in last 12 hours.,social_proof,train
+1468,Sign in & make your visit all about you,benign,train
+1613,3 Left,scarcity,train
+451,"No thanks, I don't want discount",misedirection,test
+278,228 People Have Viewed This Product Recently!,social_proof,train
+1009,Taxes and shipping will be estimated at checkout.,benign,test
+850,Shop all,benign,train
+1698,HURRY! ONLY 58 LEFT IN STOCK!,scarcity,train
+883,"Email us ASAP (like seriously) at getflat@flattummyco.com and we will do everything we can to update this for you. As soon as you order, we will send you a confirmation email so please check your details carefully.",benign,train
+1489,Current Offers,benign,train
+1667,Be the first to get updates as well as access to exclusive offers and promotions,benign,train
+78,Hayden near Princeton just bought!!!: CBD VEGAN GUMMIES,social_proof,train
+231,660 people have viewed today,social_proof,train
+41,"Someone in Madrid, Spain just bought",social_proof,train
+790,help@postergully.com,benign,train
+608,Sale Ends in 5 days 14 hours 42 mins 53 sec,urgency,train
+1406,LOW STOCK: Only 1 left.,scarcity,train
+667,Men's Sports Bottoms,benign,train
+1519,Only 16 Left in Stock!,scarcity,test
+189,Shop By Shape,benign,train
+1032,"$3,159.20 $3,949.00 Limited time only",urgency,validation
+1365,This link will open in a new window,benign,train
+685,Hurry Up ! Time is running out,urgency,validation
+1451,Low Price Guarantee,benign,validation
+1493,5 left,scarcity,train
+109,"Someone in Arden Hills, United States purchased 120ml Young Napoleon | Best Strawberry Shortcake eJuice | Vaporham Lincoln eLiquid about 42 minutes ago",social_proof,train
+1469,Out of Stock!,benign,train
+664,"Synthetic nicotine | Strawberry, kiwi & pomegranate",benign,train
+1330,Just BEE Queen,benign,test
+1721,Would you like to buy more and save more?,misedirection,test
+1006,FOR A LIMITED TIME ONLY,urgency,test
+1429,Track your order by entering your order number and email below or if you would like to create an account or log in (click here),benign,train
+1330,Swedish Hasbeens,benign,test
+108,"Someone in Tornado, United States just bought Fresh Melon Menthol 2 hours ago",social_proof,validation
+1399,Only 8 Left!,scarcity,train
+433,"No Thanks, I Prefer Paying Full Price.",misedirection,train
+811,Unique and personalized products to go as yourself.,benign,validation
+1759,Search Search,benign,validation
+1612,Only 10 left in stock,scarcity,train
+1736,Did you know we have an app? Create shareable art and custom PopSockets designs with our unique image editing tools.,benign,test
+1313,John Boos,benign,train
+987,Limited time offer,urgency,train
+1468,Bar Stools,benign,train
+1373,"Get inspiration, new arrivals and the latest offers to your inbox.",benign,train
+34,11 people have purchased this item,social_proof,train
+71,2049 sold in the last 7 days,social_proof,test
+316,I don't like discounts,misedirection,test
+331,"no thanks, I like paying full price",misedirection,train
+309,232 people are viewing this offer!,social_proof,train
+594,02 DAYS :23 HOURS :00 MINS :54 SECS,urgency,train
+773,1DAYS 04 HOURS 17 MINUTES 18 SECONDS,urgency,train
+1333,LEGO Sondersets Saison Polybags Promotionals ExklusiveOpens in a new window or tab,benign,test
+991,Custom Kids Headwear,benign,train
+1177,"N++ is all about using your momentum to complete levels and get high scores, but in this sci-fi world, there’s a slew of inadvertently homicidal enemy robots trying to prevent you from completing your goal.",benign,validation
+575,Sale ending in 0 days 04 hours 12 minutes 10 seconds,urgency,validation
+569,Return my item,benign,test
+1604,Baby Size Guide,benign,train
+223,127 People viewed this product this week,social_proof,train
+11,🔥 2 people are looking right now,social_proof,validation
+1759,Drive and Focus,benign,validation
+566,Enter your email VIEW MY CODE OFFER EXPIRES IN: 0 minutes 00 seconds EXTRA 10% OFF,urgency,train
+95,161 people have viewed this item,social_proof,train
+1330,Only 2 left.,scarcity,test
+1683,Hurry! Only 7 left in stock.,scarcity,test
+1056,Hot Offer. Limited Time,urgency,train
+350,Gameday Collection,benign,train
+1381,Whoops!,benign,train
+1143,Only 1 Left in Stock!,scarcity,train
+1648,Memory Cards,benign,train
+168,"Rick in Columbia, United States purchased a",social_proof,train
+1149,9 items left,scarcity,test
+1230,Hurry up! Only 11 items left,scarcity,test
+196,Welcome Newcomer,benign,train
+107,"Debby in Harpers Ferry, United States just bought: Icing Pen Decorating Tool",social_proof,train
+1733,Grab yourself a bargain!,misedirection,train
+1550,We are not currently accepting orders from outside of the UK.,benign,test
+1459,Hurry! Only 1 left!,scarcity,train
+1488,NRA Whittington Center Store,benign,train
+444,"No Thanks, I prefer not to have a protection plan",misedirection,train
+1083,New Vintage Stylish Belt Watch - Women,benign,test
+166,31 have it in their cart,social_proof,train
+1489,First to know about upcoming tastings & events,benign,train
+569,Why buy from us,benign,test
+1536,Plus Size Shirts and Blouses,benign,train
+1712,People also buy this with,misedirection,train
+1684,HURRY! ONLY 31 LEFT IN STOCK.,scarcity,train
+1328,A Date With Duchess,benign,train
+1426,Only 3 left.,scarcity,train
+680,Wish Your Loved Ones Instantly with Ferns N Petals International Services,benign,train
+1098,"Order now, only 2 left in stock!",scarcity,train
+1736,PopGrip MagSafe Refine by Product Type: PopGrip MagSafe,benign,test
+1330,What's New By Category,benign,test
+4,Active Filters English (United States) English (United States) ✘ Remove Filter,benign,validation
+192,"Someone in Chambersburg, Pennsylvania purchased",social_proof,train
+664,› Sub Ohm Juice,benign,train
+620,2day 13:49:51 Left,urgency,train
+516,Hurry up! Sale Ends in,urgency,train
+638,B-Series Truck remotes,benign,train
+1536,Red Tops,benign,train
+1759,JOINT Oil,benign,validation
+1070,Limited Stock,scarcity,train
+1429,Orthopedic,benign,train
+766,Retro Cordless Edison Bulb Lamp,benign,validation
+189,93 PEOPLE HAVE BOUGHT THIS PRODUCT TODAY,social_proof,train
+1009,Speed Lace Accessory Kit - Silver,benign,test
+375,"No, thanks. I'd rather pay full price.",misedirection,train
+1701,LIMITED TIME OFFER : Grab a Matching Pair & save up 60%!,misedirection,train
+103,Americas,benign,train
+1550,Here to help,benign,test
+1604,Comfy and looks great,benign,train
+242,Creators' Council,benign,train
+1709,Yes! Upgrade my purchase,misedirection,train
+114,"Jeremy in Warroad, United States purchased a",social_proof,validation
+25,Kick those cravings,benign,train
+1293,Brushes + Tools,benign,validation
+242,Free climate compensated shipping & returns,benign,train
+640,Deal expires in: 03 hrs 25 mins 22 sec,urgency,train
+1022,FREE SHIPPING // FOR A LIMITED TIME ONLY,urgency,train
+230,"Location: Kansas City, MO",benign,train
+212,"Find your local store, view opening hours and find out where you can get your latest pickup in-store!",benign,validation
+1321,only 5 left in stock!,scarcity,test
+1658,Casual Wear,benign,train
+1048,40% OFF EVERYTHING* ENTER: 40PLT + FREE SHIPPING OVER $80 HURRY! LIMITED TIME ONLY,urgency,train
+1351,Resend One time Pin,benign,test
+1124,Case Material,benign,train
+298,"Natalie in Graham, United States purchased a FREE BTS Answer Magic Pillow about 1 hour ago",social_proof,validation
+627,tedpullin,benign,train
+991,Custom Women's Apparel,benign,train
+108,Ask a Question,benign,validation
+767,Discontinued Item,benign,train
+1804,No I'd rather not hear about exclusive offers and discounts.,misedirection,train
+419,"No thanks, I’d rather pay more",misedirection,train
+1258,Only 3 left in stock!,scarcity,test
+113,Don't leave without taking discount,benign,train
+1009,View your order history,benign,test
+1773,What people are saying about us...,social_proof,train
+803,Hydration,benign,train
+999,Act now and save $12.99. Limited time only!,urgency,train
+1474,Only 13 left!,scarcity,validation
+1790,Tick here if you do not want to receive Promotional Offers by Post Tick here if you do wish to receive Promotional Offers by email and/or SMS Tick here if you would like to receive Offers from selected third parties,misedirection,train
+1049,40% OFF EVERYTHING* ENTER: 40PLT + FREE SHIPPING ON ALL ORDERS OVER $80,urgency,train
+1139,about us,benign,train
+569,Microsoft Xbox One S Wireless Controller »,benign,test
+662,Carports & Garages,benign,validation
+1598,"Hurry, only 5 left",scarcity,train
+230,"After trying several other shades of red, I’ve tried this one and just love it. It is the perfect shade of brown with beautiful red highlights, very rich color, and very beautiful.",benign,train
+314,No thanks! I don't like deals,misedirection,train
+1446,Ireland EUR,benign,train
+242,Fashion Forward,benign,train
+1174,Optics and Mounts,benign,train
+680,Don't Know Pincode?,benign,train
+630,"SALE ENDS IN 19 DAYS, 9 HOURS, 50 MINUTES, 54 SECONDS",urgency,train
+564,Your order is reserved for 29:52 minutes!,urgency,train
+242,"NA-KD, White",benign,train
+822,Game Extraction & Prep,benign,train
+638,Golf Remotes,benign,train
+1536,Baby Girl Shoes,benign,train
+1317,Books About Indian Culture,benign,train
+1315,"For any other inquiries, Click here",benign,train
+1313,Round Boards,benign,train
+1029,LIMITED TIME ONLY,urgency,train
+1352,Only 9 left!,scarcity,train
+164,"Mher from San Angelo, TX Recently made a purchase with Crossrope",social_proof,validation
+1277,3 left in stock,scarcity,train
+381,No thanks. I love chaos!,misedirection,test
+1044,By Doug,benign,train
+472,"No thanks, I like paying full price",misedirection,test
+638,Show Cart,benign,train
+662,Lean To Sheds,benign,validation
+1044,Cordless Phones For Seniors,benign,train
+1572,ONLY 9 LEFT,scarcity,train
+393,"No Thanks, I don't want official software at the best price.",misedirection,train
+1304,Bra Panty Set,benign,train
+1038,DressesFootwearHatsHoodies & SweatshirtsJerseysPantsSleepwear & UnderwearSwim CollectionT-ShirtsSale Items- View All -,benign,train
+1081,Only 4 left in stock,scarcity,test
+767,Trending Players,benign,train
+1468,10 Left in stock,scarcity,train
